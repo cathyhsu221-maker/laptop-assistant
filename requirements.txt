@@ -3,3 +3,4 @@ python-dotenv
 pydantic
 pandas
 chromadb
+requests
