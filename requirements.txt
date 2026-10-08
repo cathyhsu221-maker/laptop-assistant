@@ -4,3 +4,5 @@ pydantic
 pandas
 chromadb
 requests
+pymupdf
+beautifulsoup4

@@ -1,0 +1,44 @@
+﻿key,vendor,official_name,architecture,cores,boost_mhz_min,boost_mhz_max,power_min_w,power_max_w,memory,bus_width,ai_tops,notes,source_url
+rtx 5090,NVIDIA,GeForce RTX 5090 Laptop GPU,Blackwell,10496.0,1597.0,2160.0,95.0,150.0,24 GB GDDR7,256-bit,1824.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 5080,NVIDIA,GeForce RTX 5080 Laptop GPU,Blackwell,7680.0,1500.0,2287.0,80.0,150.0,16 GB GDDR7,256-bit,1334.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 5070 ti,NVIDIA,GeForce RTX 5070 Ti Laptop GPU,Blackwell,5888.0,1447.0,2220.0,60.0,115.0,12 GB GDDR7,192-bit,992.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 5070,NVIDIA,GeForce RTX 5070 Laptop GPU,Blackwell,4608.0,1425.0,2347.0,50.0,100.0,12 GB GDDR7 8 GB GDDR7,128-bit,798.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 5060,NVIDIA,GeForce RTX 5060 Laptop GPU,Blackwell,3328.0,1455.0,2497.0,45.0,100.0,8 GB GDDR7,128-bit,572.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 5050,NVIDIA,GeForce RTX 5050 Laptop GPU,Blackwell,2560.0,1500.0,2662.0,35.0,100.0,8 GB GDDR7,128-bit,440.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 4090,NVIDIA,GeForce RTX 4090 Laptop GPU,Ada Lovelace,9728.0,1455.0,2040.0,80.0,150.0,16 GB GDDR6,256-bit,686.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 4080,NVIDIA,GeForce RTX 4080 Laptop GPU,Ada Lovelace,7424.0,1350.0,2280.0,60.0,150.0,12 GB GDDR6,192-bit,542.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 4070,NVIDIA,GeForce RTX 4070 Laptop GPU,Ada Lovelace,4608.0,1230.0,2175.0,35.0,115.0,8 GB GDDR6,128-bit,321.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 4060,NVIDIA,GeForce RTX 4060 Laptop GPU,Ada Lovelace,3072.0,1470.0,2370.0,35.0,115.0,8 GB GDDR6,128-bit,233.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 4050,NVIDIA,GeForce RTX 4050 Laptop GPU,Ada Lovelace,2560.0,1605.0,2370.0,35.0,115.0,6 GB GDDR6,96-bit,194.0,,https://www.nvidia.com/en-us/geforce/laptops/compare/
+rtx 3080 ti,NVIDIA,GeForce RTX 3080 Ti Laptop GPU,Ampere,7424.0,1125.0,1590.0,80.0,150.0,16 GB GDDR6,256-bit,,,https://www.nvidia.com/en-us/geforce/laptops/compare/30-series/
+rtx 3080,NVIDIA,GeForce RTX 3080 Laptop GPU,Ampere,6144.0,1245.0,1710.0,80.0,150.0,16 GB GDDR6 8 GB GDDR6,256-bit,,,https://www.nvidia.com/en-us/geforce/laptops/compare/30-series/
+rtx 3070 ti,NVIDIA,GeForce RTX 3070 Ti Laptop GPU,Ampere,5888.0,1035.0,1485.0,80.0,125.0,8 GB GDDR6,256-bit,,,https://www.nvidia.com/en-us/geforce/laptops/compare/30-series/
+rtx 3070,NVIDIA,GeForce RTX 3070 Laptop GPU,Ampere,5120.0,1290.0,1620.0,80.0,125.0,8 GB GDDR6,256-bit,,,https://www.nvidia.com/en-us/geforce/laptops/compare/30-series/
+rtx 3060,NVIDIA,GeForce RTX 3060 Laptop GPU,Ampere,3840.0,1283.0,1703.0,60.0,115.0,6 GB GDDR6,192-bit,,,https://www.nvidia.com/en-us/geforce/laptops/compare/30-series/
+rtx 3050 ti,NVIDIA,GeForce RTX 3050 Ti Laptop GPU,Ampere,2560.0,1035.0,1695.0,35.0,80.0,4 GB GDDR6,128-bit,,,https://www.nvidia.com/en-us/geforce/laptops/compare/30-series/
+rtx 3050,NVIDIA,GeForce RTX 3050 Laptop GPU,Ampere,2560.0,990.0,1740.0,35.0,80.0,6 GB GDDR6 4 GB GDDR6,64 - 128-bit,,,https://www.nvidia.com/en-us/geforce/laptops/compare/30-series/
+rx 7800m,AMD,AMD Radeon™ RX 7800M,,3840.0,,2145.0,,180.0,12 GB GDDR6,,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 7700s,AMD,AMD Radeon™ RX 7700S,,,,2200.0,,100.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 7600s,AMD,AMD Radeon™ RX 7600S,,1792.0,,1865.0,,75.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 7900m,AMD,AMD Radeon™ RX 7900M,,4608.0,,1825.0,,180.0,16 GB GDDR6,,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 7600mxt,AMD,AMD Radeon™ RX 7600M XT,,2048.0,,2300.0,,120.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 7600m,AMD,AMD Radeon™ RX 7600M,,1792.0,,2070.0,,90.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 5300m,AMD,AMD Radeon™ RX 5300M,,1408.0,,1181.0,,,3 GB GDDR6,96-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 5600m,AMD,AMD Radeon™ RX 5600M,,2304.0,,1190.0,,,6 GB GDDR6,192-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 5700m,AMD,AMD Radeon™ RX 5700M,,2304.0,,1620.0,,,8 GB GDDR6,256-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 5500m,AMD,AMD Radeon™ RX 5500M,,1408.0,,1448.0,,,4 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6700m,AMD,AMD Radeon™ RX 6700M,,2304.0,,2300.0,,135.0,10 GB GDDR6,160-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6700s,AMD,AMD Radeon™ RX 6700S,,1792.0,,1890.0,,80.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6650m,AMD,AMD Radeon™ RX 6650M,,1792.0,,2222.0,,120.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6500m,AMD,AMD Radeon™ RX 6500M,,1024.0,,2191.0,,50.0,4 GB GDDR6,64-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6300m,AMD,AMD Radeon™ RX 6300M,,768.0,,1512.0,,25.0,2 GB GDDR6,,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6550m,AMD,AMD Radeon™ RX 6550M,,1024.0,,2560.0,,80.0,4 GB GDDR6,64-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6800m,AMD,AMD Radeon™ RX 6800M,,2560.0,,2300.0,,145.0,12 GB GDDR6,192-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6850mxt,AMD,AMD Radeon™ RX 6850M XT,,2560.0,,2463.0,,165.0,12 GB GDDR6,192-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6450m,AMD,AMD Radeon™ RX 6450M,,768.0,,2220.0,,50.0,4 GB GDDR6,64-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6800s,AMD,AMD Radeon™ RX 6800S,,2048.0,,1975.0,,100.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6550s,AMD,AMD Radeon™ RX 6550S,,1024.0,,2170.0,,50.0,4 GB GDDR6,64-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6650mxt,AMD,AMD Radeon™ RX 6650M XT,,2048.0,,2162.0,,120.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6600m,AMD,AMD Radeon™ RX 6600M,,1792.0,,2177.0,,100.0,8 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rx 6600s,AMD,AMD Radeon™ RX 6600S,,1792.0,,1881.0,,80.0,4 GB GDDR6,128-bit,,AMD 標示的是 Game Frequency，非最高加速時脈,https://www.amd.com/en/products/specifications/graphics.html
+rtx a2000,NVIDIA,NVIDIA RTX A2000 Laptop GPU,Ampere,2560.0,,,35.0,95.0,4 GB GDDR6,128-bit,,NVIDIA 行動工作站產品表只列 4GB 版本；ASUS 機種標示為 8GB,https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/documents/quadro-line-card-for-mobile-workstation.pdf

@@ -1,5 +1,6 @@
-"""從 ASUS 台灣官網抓目前在售（官網「全系列」列表上）的筆電型號，原封不動存下完整規格到 data/raw/asus_models.jsonl。
-流程：官網產品列表 API → 每個產品的規格 API（一般機種走 odinapi、ROG 走 api-rog）→ 逐型號寫出（可中斷後續跑）
+"""從 ASUS 台灣官網抓目前在售（官網「全系列」列表上）的筆電，以料號為單位原封不動存下完整規格到 data/raw/asus_models.jsonl。
+一個料號（如 90NB1501-M00AS0）對應一個銷售型號（如 UX3407QA-0072D26100）與一組固定配置（CPU、RAM、螢幕、電池、顏色、變壓器…）。
+流程：官網產品列表 API → 每個產品的型號 → 每個型號的料號與規格（一般機種走 odinapi、ROG 走 api-rog）→ 逐料號寫出（可中斷後續跑）
 官網頁面的規格表是前端用 JavaScript 載入的，直接抓 HTML 拿不到，所以改呼叫官網背後的 API。
 挑欄位、轉數值交給 build_db.py，這裡只負責保存原始資料。"""
 import json
@@ -13,6 +14,7 @@ import requests
 HEADERS = {"User-Agent": "Mozilla/5.0 (laptop-assistant personal study project)"}
 OUT = Path("data/raw/asus_models.jsonl")
 ODIN = "https://odinapi.asus.com/recent-data/apiv2/"
+SKU_PRICE = "https://odinapi.asus.com/apiv2/GetModelSkuPrice"
 ROG = "https://api-rog.asus.com/recent-data/api/v5/Product/ModelSpec"
 PAGE_SIZE = 100
 
@@ -35,34 +37,66 @@ def list_products() -> list[dict]:
             PriceMin="", PriceMax="", Sort="Recommend", siteID="www", sitelang="",
         )["Result"]
         for p in result["ProductList"]:
-            products.setdefault(p["ProductURL"], p)  # ROG 每個料號一張卡片，同一產品頁會重複出現
+            products.setdefault(p["ProductURL"], p)  # ROG 每個配置一張卡片，同一產品頁會重複出現
         if page * PAGE_SIZE >= result["TotalCount"] or not result["ProductList"]:
             return list(products.values())
         page += 1
 
 
+def sku_rows(model: str, url: str) -> list[dict]:
+    """一般機種的料號層級資料：GetModelSkuPrice 給料號清單與售價，PartNoPageResult 給每個料號的完整規格。
+    只有 ASUS Store 有販售的型號才有料號資料，其餘回傳空清單"""
+    skus = get_json(SKU_PRICE, SystemCode="asus", WebsiteCode="tw", ProductWebPath=model.lower(),
+                    ModelType=2, group_id=0, siteID="www", sitelang="")
+    prices = {s["PartNo"]: (s["Ec"] or [{}])[0] for s in (skus.get("Result") or {}).get("PartNoList") or []}
+    if not prices:
+        return []
+    path = url.rstrip("/").split("/")  # https://www.asus.com/tw/laptops/for-home/zenbook/asus-zenbook-a14-ux3407
+    part_nos, rows = list(prices), []
+    for i in range(0, len(part_nos), 20):  # 一次查 20 個料號，避免網址過長
+        result = get_json(
+            ODIN + "PartNoPageResult", SystemCode="asus", WebsiteCode="tw", PartNo=",".join(part_nos[i:i + 20]),
+            ProductWebPath=path[-1], ProductLevel1Code=path[-4], ProductLevel2Code=path[-3], siteID="www", sitelang="",
+        )["Result"]
+        for s in result.get("ProductList") or []:
+            ec = prices.get(s["PartNo"], {})
+            rows.append({
+                "level": "sku", "model": model, "part_no": s["PartNo"], "sales_model": s["SalesModelName"],
+                "price": ec.get("Mapping_Price") or None, "regular_price": ec.get("Regular_Price") or None,
+                "specs": s["SpecList"],
+            })
+    return rows
+
+
 def asus_models(p: dict) -> list[dict]:
-    """一般機種：PDTechSpecM2List 回傳該產品頁上每個型號（如 UX3407QA、UX3407NA）的完整規格。
+    """一般機種：先用 PDTechSpecM2List 找出產品頁上的型號（如 UX3407QA、UX3407NA），
+    有料號資料的型號逐料號存；沒有的只能存型號層級的規格（CPU、RAM 等列出所有選項，看不出搭配）。
     少數舊頁面沒有逐型號資料，只有一整段排版過的 HTML，就整段存在 spec_html。"""
-    web_path = p["ProductURL"].rstrip("/").split("/")[-1]
-    params = dict(SystemCode="asus", WebSiteCode="tw", ProductWebPath=web_path, siteID="www", sitelang="")
+    url = p["ProductURL"]
+    params = dict(SystemCode="asus", WebSiteCode="tw", ProductWebPath=url.rstrip("/").split("/")[-1],
+                  siteID="www", sitelang="")
     models = get_json(ODIN + "PDTechSpecM2List", particular="3w", **params)["Result"].get("TechSpec") or []
-    if models:
-        return [{"model": m["Name"], "specs": m["SpecList"]} for m in models]
+    rows = []
+    for m in models:
+        rows += sku_rows(m["Name"], url) or [{"level": "model", "model": m["Name"], "specs": m["SpecList"]}]
+    if rows:
+        return rows
     result = get_json(ODIN + "PDTechSpec", **params)["Result"]
     if result.get("SpecList"):
-        return [{"model": None, "specs": {s["Title"]: s["Content"] for s in result["SpecList"]}}]
+        return [{"level": "model", "specs": {s["Title"]: s["Content"] for s in result["SpecList"]}}]
     if result.get("SpecHTML"):
-        return [{"model": None, "specs": {}, "spec_html": result["SpecHTML"]}]
+        return [{"level": "model", "specs": {}, "spec_html": result["SpecHTML"]}]
     return []
 
 
 def rog_models(p: dict) -> list[dict]:
-    """ROG：規格放在 api-rog，以料號（SKU）為單位，例如 G615LR-0071C290HX-NBL"""
+    """ROG：規格放在 api-rog，本身就是料號層級，例如料號 90NR0LR1-M00N30、銷售型號 G615LR-0071C290HX-NBL"""
     result = get_json(ROG, m1Id=p["M1Id"], WebsiteCode="tw")["result"]
     return [
         {
-            "model": s["skuName"],
+            "level": "sku",
+            "part_no": s["partNo"],
+            "sales_model": s["skuName"],
             "series": s["mktName"],
             "specs": {c["displayField"]: c["descriptionText"] for c in s["specContent"]},
         }
@@ -95,7 +129,6 @@ def main():
                     "source": "rog" if p["isRogFlag"] else "asus",
                     "series": m.pop("series", None) or p["Name"],
                     "category": p["Level3Path"],
-                    "sort_price": p["SortPrice"] or None,  # 列表上的排序用價格，多數機種是空的
                     "online_date": p["ProductOnlineDt"],
                     **m,
                     "fetched_at": today,
@@ -104,7 +137,7 @@ def main():
             if not models:  # 不寫入，下次續跑會重試
                 empty.append(url)
             f.flush()
-            print(f"{i} / {len(todo)}  {url}  → {len(models)} 個型號")
+            print(f"{i} / {len(todo)}  {url}  → {len(models)} 筆（料號 {sum(m['level'] == 'sku' for m in models)}）")
     if empty:
         print(f"\n{len(empty)} 個產品沒抓到規格：", *empty, sep="\n")
 

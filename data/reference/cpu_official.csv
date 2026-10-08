@@ -1,0 +1,703 @@
+﻿key,vendor,official_name,codename,launch,cores,p_cores,e_cores,lpe_cores,threads,base_ghz,boost_ghz,l2_mb,l3_mb,npu_tops,overall_tops,igpu,base_power_w,max_power_w,min_power_w,notes,source_url
+3015ce,AMD,AMD 3015Ce,,4/29/2021,2.0,,,,4.0,1.2,2.3,1.0,4.0,,,Radeon Graphics,6.0,,,,https://www.amd.com/en/products/specifications/processors.html
+3015e,AMD,AMD 3015e,Pollock,7/6/2020,2.0,,,,4.0,1.2,2.3,1.0,4.0,,,AMD Radeon Graphics,6.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/amd/amd-3000-series/amd-3015e.html
+3020e,AMD,AMD 3020e,Dali,1/6/2020,2.0,,,,2.0,1.2,2.6,1.0,4.0,,,AMD Radeon Graphics,6.0,,,,https://www.amd.com/en/products/specifications/processors.html
+athlon pro 300u mobile processor with radeon vega 3 graphics,AMD,AMD Athlon™ PRO 300U Mobile Processor with Radeon™ Vega 3 Graphics,Picasso,,2.0,,,,4.0,2.4,3.3,1.0,4.0,,,Radeon Vega 3 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/athlon-pro/athlon-pro-300-series/amd-athlon-pro-300u.html
+athlon pro 200u mobile processor with radeon vega 3 graphics,AMD,AMD Athlon™ PRO 200U Mobile Processor with Radeon™ Vega 3 Graphics,Raven Ridge,,2.0,,,,4.0,2.3,3.2,1.0,4.0,,,Radeon Vega 3 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/athlon-pro/athlon-pro-200-series/amd-athlon-pro-200u.html
+athlon pro 3145b,AMD,AMD Athlon™ PRO 3145B,Dali,Q12021,2.0,,,,4.0,2.4,3.3,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+athlon pro 3045b,AMD,AMD Athlon™ PRO 3045B,Dali,Q12021,2.0,,,,2.0,2.3,3.2,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+7th gen e2-9010 apu,AMD,7th Gen E2-9010 APU,Stoney Ridge,Q217,2.0,,,,,2.0,2.2,1.0,,,,AMD Radeon R5 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e2-series-apu-for-laptops/7th-gen-e2-9010-apu.html
+e1-6010 with radeon r2 graphics,AMD,E1-6010 with Radeon™ R2 Graphics,Beema,,2.0,,,,2.0,1.35,,1.0,,,,AMD Radeon R2 Graphics,10.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e1-series-apu-for-laptops/e1-6010-with-radeon-r2-graphics.html
+e1-2500 with radeon hd 8240,AMD,E1-2500 with Radeon™ HD 8240,Kabini,,2.0,,,,2.0,1.4,,1.0,,,,AMD Radeon HD 8240,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e1-series-apu-for-laptops/e1-2500-with-radeon-hd-8240.html
+e1-2100 with radeon hd 8210,AMD,E1-2100 with Radeon™ HD 8210,Kabini,,2.0,,,,2.0,1.0,,1.0,,,,AMD Radeon HD 8210,9.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e1-series-apu-for-laptops/e1-2100-with-radeon-hd-8210.html
+e1-2200 with radeon hd 8210,AMD,E1-2200 with Radeon™ HD 8210,Kabini,,2.0,,,,2.0,1.0,,1.0,,,,AMD Radeon HD 8210,9.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e1-series-apu-for-laptops/e1-2200-with-radeon-hd-8210.html
+e1 micro-6200t with radeon r2 graphics,AMD,E1 Micro-6200T with Radeon™ R2 Graphics,Mullins,,2.0,,,,2.0,1.4,,1.0,,,,AMD Radeon R2 Graphics,3.95,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e1-series-apu-for-laptops/e1-micro-6200t-with-radeon-r2-graphics.html
+e2-7110 with radeon r2 graphics,AMD,E2-7110 with Radeon™ R2 Graphics,Carrizo,,4.0,,,,4.0,1.8,1.8,2.0,,,,AMD Radeon R2 Graphics,65.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e2-series-apu-for-aios/e2-7110-with-radeon-r2-graphics.html
+e2-3000 with radeon hd 8280,AMD,E2-3000 with Radeon™ HD 8280,Kabini,,2.0,,,,2.0,1.65,,1.0,,,,AMD Radeon HD 8280,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e2-series-apu-for-laptops/e2-3000-with-radeon-hd-8280.html
+e2-6110 with radeon r2 graphics,AMD,E2-6110 with Radeon™ R2 Graphics,Beema,,4.0,,,,4.0,1.5,,2.0,,,,AMD Radeon R2 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e2-series-apu-for-laptops/e2-6110-with-radeon-r2-graphics.html
+e1-7010 with radeon r2 graphics,AMD,E1-7010 with Radeon™ R2 Graphics,Carrizo,,2.0,,,,2.0,1.5,1.5,1.0,,,,AMD Radeon R2 Graphics,10.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e1-series-apu-for-laptops/e1-7010-with-radeon-r2-graphics.html
+e2-3800 with radeon hd 8280,AMD,E2-3800 with Radeon™ HD 8280,Kabini,,4.0,,,,4.0,1.3,,2.0,,,,AMD Radeon HD 8280,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/e-series/e2-series-apu-for-laptops/e2-3800-with-radeon-hd-8280.html
+p650,AMD,P650,Phenom,,2.0,,,,2.0,2.6,,2.0,,,,無內顯（需搭配獨顯）,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+n870,AMD,N870,Phenom,,3.0,,,,3.0,2.3,,1.5,,,,無內顯（需搭配獨顯）,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+n660,AMD,N660,Phenom,,2.0,,,,2.0,3.0,,2.0,,,,無內顯（需搭配獨顯）,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+x940,AMD,X940,Phenom,,4.0,,,,4.0,2.4,,2.0,,,,無內顯（需搭配獨顯）,45.0,,,,https://www.amd.com/en/products/specifications/processors.html
+p860,AMD,P860,Phenom,,3.0,,,,3.0,2.0,,1.5,,,,無內顯（需搭配獨顯）,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+n640,AMD,N640,Phenom,,2.0,,,,2.0,2.8,,2.0,,,,無內顯（需搭配獨顯）,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+n960,AMD,N960,Phenom,,4.0,,,,4.0,1.8,,2.0,,,,無內顯（需搭配獨顯）,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+n970,AMD,N970,Phenom,,4.0,,,,4.0,2.2,,2.0,,,,無內顯（需搭配獨顯）,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+6th gen fx-8800p apu,AMD,6th Gen FX-8800P APU,Carrizo,,4.0,,,,4.0,2.1,3.4,2.0,,,,AMD Radeon R7 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/fx-series/fx-series-processors-for-laptops/6th-gen-fx-8800p-apu.html
+fx-7600p with radeon r7 graphics,AMD,FX-7600P with Radeon™ R7 Graphics,Kaveri,,4.0,,,,4.0,2.7,3.6,4.0,,,,AMD Radeon R7 Graphics,35.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/fx-series/fx-series-processors-for-laptops/fx-7600p-with-radeon-r7-graphics.html
+fx-7500 with radeon r7 graphics,AMD,FX-7500 with Radeon™ R7 Graphics,Kaveri,,4.0,,,,4.0,2.1,3.3,4.0,,,,AMD Radeon R7 Graphics,20.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/fx-series/fx-series-processors-for-laptops/fx-7500-with-radeon-r7-graphics.html
+7th gen fx 9800p apu,AMD,7th Gen FX™ 9800P APU,Bristol Ridge,Q216,4.0,,,,,2.7,3.6,2.0,,,,AMD Radeon R7 Graphics,15.0,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/fx-series/fx-series-processors-for-laptops/7th-gen-fx-9800p-apu.html
+7th gen fx 9830p apu,AMD,7th Gen FX™ 9830P APU,Bristol Ridge,Q216,4.0,,,,,3.0,3.7,2.0,,,,AMD Radeon R7 Graphics,35.0,45.0,25.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/fx-series/fx-series-processors-for-laptops/7th-gen-fx-9830p-apu.html
+6th gen pro a10-8730b apu,AMD,6th Gen AMD PRO A10-8730B APU,Carrizo,Q3 2016,4.0,,,,,2.4,3.3,2.0,,,,R5,,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a10-apu-for-laptops/6th-gen-amd-pro-a10-8730b-apu.html
+a8 pro-7150b with radeon r5 graphics,AMD,A8 PRO-7150B with Radeon™ R5 Graphics,Kaveri,,4.0,,,,4.0,1.9,3.2,4.0,,,,AMD Radeon R5 Graphics,100.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a8-apu-for-laptops/a8-pro-7150b-with-radeon-r5-graphics.html
+6th gen pro a10-8700b apu,AMD,6th Gen AMD PRO A10-8700B APU,Carrizo,,4.0,,,,4.0,1.8,3.2,2.0,,,,AMD Radeon R6 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a10-apu-for-laptops/6th-gen-amd-pro-a10-8700b-apu.html
+7th gen pro a10-9730b apu,AMD,7th Gen AMD PRO A10-9730B APU,Bristol Ridge,10/24/2016,4.0,,,,,2.8,3.5,2.0,,,,R7,35.0,45.0,25.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a10-apu-for-laptops/7th-gen-amd-pro-a10-9730b-apu.html
+a4 pro-3340b with radeon hd 8240 graphics,AMD,A4 PRO-3340B with Radeon™ HD 8240 Graphics,Kabini,,4.0,,,,4.0,2.2,,2.0,,,,AMD Radeon HD 8240 Graphics,25.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a4-apu-for-laptops/a4-pro-3340b-with-radeon-hd-8240-graphics.html
+7th gen pro a10-9700b apu,AMD,7th Gen AMD PRO A10-9700B APU,Bristol Ridge,10/24/2016,4.0,,,,,2.5,3.4,2.0,,,,R7,15.0,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a10-apu-for-laptops/7th-gen-amd-pro-a10-9700b-apu.html
+7th gen pro a6-9500b apu,AMD,7th Gen AMD PRO A6-9500B APU,Bristol Ridge,10/24/2016,2.0,,,,,2.3,3.2,1.0,,,,R5,15.0,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a6-apu-for-laptops/7th-gen-amd-pro-a6-9500b-apu.html
+6th gen pro a6-8530b apu,AMD,6th Gen AMD PRO A6-8530B APU,Carrizo,Q3 2016,2.0,,,,,2.3,3.2,1.0,,,,R5,,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a6-apu-for-laptops/6th-gen-amd-pro-a6-8530b-apu.html
+6th gen pro a12-8830b apu,AMD,6th Gen AMD PRO A12-8830B APU,Carrizo,Q3 2016,4.0,,,,,2.5,3.4,2.0,,,,R7,,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a12-apu-for-laptops/6th-gen-amd-pro-a12-8830b-apu.html
+7th gen pro a12-9830b apu,AMD,7th Gen AMD PRO A12-9830B APU,Bristol Ridge,10/24/2016,4.0,,,,,3.0,3.7,2.0,,,,R7,35.0,45.0,25.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a12-apu-for-laptops/7th-gen-amd-pro-a12-9830b-apu.html
+6th gen pro a12-8800b apu,AMD,6th Gen AMD PRO A12-8800B APU,Carrizo,,4.0,,,,4.0,2.1,3.4,2.0,,,,AMD Radeon R7 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a12-apu-for-laptops/6th-gen-amd-pro-a12-8800b-apu.html
+6th gen pro a6-8500b apu,AMD,6th Gen AMD PRO A6-8500B APU,Carrizo,,2.0,,,,4.0,1.6,3.0,1.0,,,,AMD Radeon R5 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a6-apu-for-laptops/6th-gen-amd-pro-a6-8500b-apu.html
+7th gen pro a12-9800b apu,AMD,7th Gen AMD PRO A12-9800B APU,Bristol Ridge,10/24/2016,4.0,,,,,2.7,3.6,2.0,,,,R7,15.0,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a12-apu-for-laptops/7th-gen-amd-pro-a12-9800b-apu.html
+6th gen pro a8-8600b apu,AMD,6th Gen AMD PRO A8-8600B APU,Carrizo,,4.0,,,,4.0,1.6,3.0,2.0,,,,AMD Radeon R6 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a8-apu-for-laptops/6th-gen-amd-pro-a8-8600b-apu.html
+7th gen pro a6-7350b apu,AMD,7th Gen AMD PRO A6-7350B APU,Stoney Ridge,Q1 2018,2.0,,,,,3.0,3.6,1.0,,,,AMD Radeon R5 Graphics,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+7th gen pro a6-8350b apu,AMD,7th Gen AMD PRO A6-8350B APU,,Q1 2020,2.0,,,,,3.1,3.7,1.0,,,,AMD Radeon R5 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/products/specifications/processors.html
+7th gen pro a8-9600b apu,AMD,7th Gen AMD PRO A8-9600B APU,Bristol Ridge,10/24/2016,4.0,,,,,2.4,3.3,2.0,,,,R5,15.0,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a8-apu-for-laptops/7th-gen-amd-pro-a8-9600b-apu.html
+a10 pro-7350b with radeon r6 graphics,AMD,A10 PRO-7350B with Radeon™ R6 Graphics,Kaveri,,4.0,,,,4.0,2.1,3.3,4.0,,,,AMD Radeon R6 Graphics,19.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a10-apu-for-laptops/a10-pro-7350b-with-radeon-r6-graphics.html
+7th gen pro a8-9630b,AMD,7th Gen AMD PRO A8-9630B,Bristol Ridge,10/24/2016,4.0,,,,,2.6,3.3,2.0,,,,R5,35.0,45.0,25.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a8-apu-for-laptops/7th-gen-amd-pro-a8-9630b-apu.html
+7th gen pro a4-4350b apu,AMD,7th Gen AMD PRO A4-4350B APU,Stoney Ridge,Q1 2018,2.0,,,,,2.5,2.9,1.0,,,,AMD Radeon R4 Graphics,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+a6 pro-7050b with radeon r4 graphics,AMD,A6 PRO-7050B with Radeon™ R4 Graphics,Kaveri,,2.0,,,,2.0,2.2,3.0,1.0,,,,AMD Radeon R4 Graphics,100.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a6-apu-for-laptops/a6-pro-7050b-with-radeon-r4-graphics.html
+7th gen pro a4-5350b apu,AMD,7th Gen AMD PRO A4-5350B APU,,Q1 2020,2.0,,,,,3.0,3.6,1.0,,,,AMD Radeon R5 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/products/specifications/processors.html
+a4 pro-3350b with radeon r4 graphics,AMD,A4 PRO-3350B with Radeon™ R4 Graphics,Carrizo,Q2 2016,4.0,,,,4.0,2.0,2.4,2.0,,,,AMD Radeon R4 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/pro-a-series/pro-a-series-a4-apu-for-laptops/a4-pro-3350b-with-radeon-r4-graphics.html
+athlon silver 7120u,AMD,AMD Athlon™ Silver 7120U,Mendocino,,2.0,,,,2.0,2.4,3.5,1.0,2.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/athlon/athlon-7000-series/amd-athlon-silver-7120u.html
+athlon gold 7220u,AMD,AMD Athlon™ Gold 7220U,Mendocino,,2.0,,,,4.0,2.4,3.7,1.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/athlon/athlon-7000-series/amd-athlon-gold-7220u.html
+athlon gold 7220c,AMD,AMD Athlon™ Gold 7220C,Mendocino,,2.0,,,,4.0,2.4,3.7,1.0,2.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+athlon silver 7120c,AMD,AMD Athlon™ Silver 7120C,Mendocino,,2.0,,,,2.0,2.4,3.5,1.0,2.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+athlon 300u,AMD,AMD Athlon™ 300U,Picasso,,2.0,,,,4.0,2.4,3.3,1.0,4.0,,,Radeon Vega 3 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/athlon/athlon-300-series/amd-athlon-300u.html
+athlon silver 10,AMD,AMD Athlon™ Silver 10,Mendocino,10/1/2025,2.0,,,,2.0,2.4,3.5,1.0,2.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/athlon/10-series/amd-athlon-silver-10.html
+athlon gold 20,AMD,AMD Athlon™ Gold 20,Mendocino,10/1/2025,2.0,,,,4.0,2.4,3.7,1.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/athlon/10-series/amd-athlon-gold-20.html
+athlon silver 3050c,AMD,AMD Athlon™  Silver 3050C,Dali,9/22/2020,2.0,,,,2.0,2.3,3.2,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+athlon silver 3050u,AMD,AMD Athlon™ Silver 3050U,Dali,1/6/2020,2.0,,,,2.0,2.3,3.2,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+athlon silver 3050e,AMD,AMD Athlon™ Silver 3050e,Dali,1/6/2020,2.0,,,,4.0,1.4,2.8,1.0,4.0,,,AMD Radeon Graphics,6.0,,,,https://www.amd.com/en/products/specifications/processors.html
+athlon gold 3150u,AMD,AMD Athlon™ Gold 3150U,Dali,1/6/2020,2.0,,,,4.0,2.4,3.3,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+athlon gold 3150c,AMD,AMD Athlon™ Gold 3150C,Dali,9/22/2020,2.0,,,,4.0,2.4,3.3,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+a6-8500p with radeon r5 graphics,AMD,A6-8500P with Radeon™ R5 Graphics,Carrizo,,2.0,,,,2.0,1.6,3.0,1.0,,,,AMD Radeon R5 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-aios/a6-8500p-with-radeon-r5-graphics.html
+a6-7310 with radeon r4 graphics,AMD,A6-7310 with Radeon™ R4 Graphics,Carrizo,,4.0,,,,4.0,2.0,2.4,2.0,,,,AMD Radeon R4 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-aios/a6-7310-with-radeon-r4-graphics.html
+a8-6410 with radeon r5 graphics,AMD,A8-6410 with Radeon™ R5 Graphics,Beema,,4.0,,,,4.0,2.0,2.4,2.0,,,,AMD Radeon R5 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a8-series-apu-for-aios/a8-6410-with-radeon-r5-graphics.html
+7th gen a10-9600p apu,AMD,7th Gen A10-9600P APU,Bristol Ridge,Q216,4.0,,,,,2.4,3.3,2.0,,,,AMD Radeon R5 Graphics,15.0,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a10-series-apu-for-laptops/7th-gen-a10-9600p-apu.html
+7th gen a9-9425 apu,AMD,7th Gen A9-9425 APU,Stoney Ridge,2Q18,2.0,,,,,3.1,3.7,1.0,,,,AMD Radeon R5 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/products/specifications/processors.html
+6th gen a10-8700p apu,AMD,6th Gen A10-8700P APU,Carrizo,,4.0,,,,4.0,1.8,3.2,2.0,,,,AMD Radeon R6 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a10-series-apu-for-laptops/6th-gen-a10-8700p-apu.html
+a6-6310 with radeon r4 graphics,AMD,A6-6310 with Radeon™ R4 Graphics,Beema,,4.0,,,,4.0,2.4,2.4,2.0,,,,AMD Radeon R4 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-desktops/a6-6310-with-radeon-r4-graphics.html
+a4-5000 with radeon hd 8330,AMD,A4-5000 with Radeon™ HD 8330,Kabini,,4.0,,,,4.0,1.5,,2.0,,,,AMD Radeon HD 8330,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a4-series-apu-for-laptops/a4-5000-with-radeon-hd-8330.html
+a4-6210 with radeon r3 graphics,AMD,A4-6210 with Radeon™ R3 Graphics,Beema,,4.0,,,,4.0,1.8,,2.0,,,,AMD Radeon R3 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a4-series-apu-for-laptops/a4-6210-with-radeon-r3-graphics.html
+7th gen a4-9120c apu,AMD,7th Gen A4-9120C APU,Stoney Ridge,,2.0,,,,2.0,1.6,2.4,1.0,,,,Radeon R4 Graphics,6.0,,,,https://www.amd.com/en/products/specifications/processors.html
+a4-7210 with radeon r3 graphics,AMD,A4-7210 with Radeon™ R3 Graphics,Carrizo,,4.0,,,,4.0,1.8,2.2,2.0,,,,AMD Radeon R3 Graphics,65.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a4-series-apu-for-laptops/a4-7210-with-radeon-r3-graphics.html
+7th gen a9-9410 apu,AMD,7th Gen A9-9410 APU,Stoney Ridge,Q216,2.0,,,,,2.9,3.5,1.0,,,,AMD Radeon R5 Graphics,10.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a9-series-apu-for-laptops/7th-gen-a9-9410-apu.html
+a6-5350m with radeon hd 8450g,AMD,A6-5350M with Radeon™ HD 8450G,Richland,,2.0,,,,2.0,2.9,3.5,2.0,,,,AMD Radeon HD 8450G,35.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-laptops/a6-5350m-with-radeon-hd-8450g.html
+a10-7400p with radeon r6 graphics,AMD,A10-7400P with Radeon™ R6 Graphics,Kaveri,,4.0,,,,4.0,2.5,3.4,4.0,,,,AMD Radeon R6 Graphics,35.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a10-series-apu-for-laptops/a10-7400p-with-radeon-r6-graphics.html
+6th gen a8-8600p apu,AMD,6th Gen A8-8600P APU,Carrizo,,4.0,,,,4.0,1.6,3.0,2.0,,,,AMD Radeon R6 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a8-series-apu-for-laptops/6th-gen-a8-8600p-apu.html
+a6-5200m with radeon hd 8400,AMD,A6-5200M with Radeon™ HD 8400,Kabini,,4.0,,,,4.0,2.0,,2.0,,,,AMD Radeon HD 8400,25.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-laptops/a6-5200m-with-radeon-hd-8400.html
+7th gen a12-9700p apu,AMD,7th Gen A12-9700P APU,Bristol Ridge,Q216,4.0,,,,,2.5,3.4,2.0,,,,AMD Radeon R7 Graphics,15.0,15.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a12-series-apu-for-laptops/7th-gen-a12-9700p-apu.html
+a4 micro-6400t with radeon r3 graphics,AMD,A4 Micro-6400T with Radeon™ R3 Graphics,Mullins,,4.0,,,,4.0,1.6,,2.0,,,,AMD Radeon R3 Graphics,4.5,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a4-series-apu-for-laptops/a4-micro-6400t-with-radeon-r3-graphics.html
+a6-7000 with radeon r4 graphics,AMD,A6-7000 with Radeon™ R4 Graphics,Kaveri,,2.0,,,,2.0,2.2,3.0,1.0,,,,AMD Radeon R4 Graphics,17.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-laptops/a6-7000-with-radeon-r4-graphics.html
+7th gen a6-9220c apu,AMD,7th Gen A6-9220C APU,Stoney Ridge,,2.0,,,,2.0,1.8,2.7,1.0,,,,Radeon R5 Graphics,6.0,,,,https://www.amd.com/en/products/specifications/processors.html
+7th gen a4-9125 apu,AMD,7th Gen A4-9125 APU,Stoney Ridge,2Q18,2.0,,,,,2.3,2.6,1.0,,,,AMD Radeon R3 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/products/specifications/processors.html
+7th gen a6-9210 apu,AMD,7th Gen A6-9210 APU,Stoney Ridge,Q216,2.0,,,,,2.4,2.8,1.0,,,,AMD Radeon R4 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-laptops/7th-gen-a6-9210-apu.html
+a8-7410 with radeon r5 graphics,AMD,A8-7410 with Radeon™ R5 Graphics,Carrizo,,4.0,,,,4.0,2.2,2.5,2.0,,,,AMD Radeon R5 Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a8-series-apu-for-laptops/a8-7410-with-radeon-r5-graphics.html
+7th gen a6-9225 apu,AMD,7th Gen A6-9225 APU,Stoney Ridge,2Q18,2.0,,,,,2.6,3.1,1.0,,,,AMD Radeon R4 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/products/specifications/processors.html
+7th gen a10-9630p apu,AMD,7th Gen A10-9630P APU,Bristol Ridge,Q216,4.0,,,,,2.6,3.3,2.0,,,,AMD Radeon R5 Graphics,35.0,45.0,25.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a10-series-apu-for-laptops/7th-gen-a10-9630p-apu.html
+a10 micro-6700t with radeon r6 graphics,AMD,A10 Micro-6700T with Radeon™ R6 Graphics,Richland,,4.0,,,,4.0,2.2,,2.0,,,,AMD Radeon R6 Graphics,4.5,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a10-series-apu-for-laptops/a10-micro-6700t-with-radeon-r6-graphics.html
+7th gen a12-9730p apu,AMD,7th Gen A12-9730P APU,Bristol Ridge,Q216,4.0,,,,,2.8,3.5,2.0,,,,AMD Radeon R7 Graphics,35.0,45.0,25.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a12-series-apu-for-laptops/7th-gen-a12-9730p-apu.html
+7th gen a4-9120 apu,AMD,7th Gen A4-9120 APU,Stoney Ridge,Q217,2.0,,,,,2.2,2.5,1.0,,,,AMD Radeon R3 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a4-series-apu-for-laptops/7th-gen-a4-9120-apu.html
+a8-7200p with radeon r5 graphics,AMD,A8-7200P with Radeon™ R5 Graphics,Kaveri,,4.0,,,,4.0,2.4,3.3,4.0,,,,AMD Radeon R5 Graphics,100.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a8-series-apu-for-laptops/a8-7200p-with-radeon-r5-graphics.html
+7th gen a9-9420 apu,AMD,7th Gen A9-9420 APU,Stoney Ridge,Q217,2.0,,,,,3.0,3.6,1.0,,,,AMD Radeon R5 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a9-series-apu-for-laptops/7th-gen-a9-9420-apu.html
+7th gen a6-9220 apu,AMD,7th Gen A6-9220 APU,Stoney Ridge,Q217,2.0,,,,,2.5,2.9,1.0,,,,AMD Radeon R5 Graphics,15.0,15.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a6-series-apu-for-laptops/7th-gen-a6-9220-apu.html
+a4-5100 with radeon hd 8330,AMD,A4-5100 with Radeon™ HD 8330,Kabini,,4.0,,,,4.0,1.55,,2.0,,,,AMD Radeon HD 8330,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a4-series-apu-for-laptops/a4-5100-with-radeon-hd-8330.html
+a8-7100 with radeon r5 graphics,AMD,A8-7100 with Radeon™ R5 Graphics,Kaveri,,4.0,,,,4.0,1.8,3.0,4.0,,,,AMD Radeon R5 Graphics,20.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a8-series-apu-for-laptops/a8-7100-with-radeon-r5-graphics.html
+a10-7300 with radeon r6 graphics,AMD,A10-7300 with Radeon™ R6 Graphics,Kaveri,,4.0,,,,4.0,1.9,3.2,4.0,,,,AMD Radeon R6 Graphics,20.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/a-series/a10-series-apu-for-laptops/a10-7300-with-radeon-r6-graphics.html
+ryzen ai max pro 385,AMD,AMD Ryzen™ AI Max PRO 385,Strix Halo,,8.0,,,,16.0,3.6,5.0,8.0,32.0,50.0,106.0,Radeon 8050S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-max-pro-300-series/amd-ryzen-ai-max-pro-385.html
+ryzen ai max+ pro 395,AMD,AMD Ryzen™ AI Max+ PRO 395,Strix Halo,,16.0,,,,32.0,3.0,5.1,16.0,64.0,50.0,126.0,Radeon 8060S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-max-pro-300-series/amd-ryzen-ai-max-plus-pro-395.html
+ryzen ai max pro 380,AMD,AMD Ryzen™ AI Max PRO 380,Strix Halo,,6.0,,,,12.0,3.6,4.9,6.0,16.0,50.0,80.0,Radeon 8040S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-max-pro-300-series/amd-ryzen-ai-max-pro-380.html
+ryzen ai max pro 390,AMD,AMD Ryzen™ AI Max PRO 390,Strix Halo,,12.0,,,,24.0,3.2,5.0,12.0,64.0,50.0,110.0,Radeon 8050S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-max-pro-300-series/amd-ryzen-ai-max-pro-390.html
+ryzen 5 pro 7640u,AMD,AMD Ryzen™ 5 PRO 7640U,Phoenix,06/13/2023,6.0,,,,12.0,3.5,4.9,6.0,16.0,,,AMD Radeon 760M,,30.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-5-pro-7640u.html
+ryzen 3 pro 7330u,AMD,AMD Ryzen™ 3 PRO 7330U,Barcelo R,01/04/2023,4.0,,,,8.0,2.3,4.3,2.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-3-pro-7330u.html
+ryzen 7 pro 7735u,AMD,AMD Ryzen™ 7 PRO 7735U,Rembrandt R, 9/30/2023,8.0,,,,16.0,2.7,4.75,4.0,16.0,,,AMD Radeon 680M,,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/7000-series/amd-ryzen-7-pro-7735u.html
+ryzen 3 pro 7335u,AMD,AMD Ryzen™ 3 PRO 7335U,Rembrandt R, 9/30/2023,4.0,,,,8.0,3.0,4.3,8.0,,,,AMD Radeon 660M,,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/7000-series/amd-ryzen-3-pro-7335u.html
+ryzen 5 pro 7530u,AMD,AMD Ryzen™ 5 PRO 7530U,Barcelo R,01/04/2023,6.0,,,,12.0,2.0,4.5,3.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-5-pro-7530u.html
+ryzen 5 pro 7545u,AMD,AMD Ryzen™ 5 PRO 7545U,Phoenix,11/02/2023,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,,30.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-5-pro-7545u.html
+ryzen 5 pro 7640hs,AMD,AMD Ryzen™ 5 PRO 7640HS,Phoenix,06/13/2023,6.0,,,,12.0,4.3,5.0,6.0,16.0,,,AMD Radeon 760M,,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-5-pro-7640hs.html
+ryzen 9 pro 7940hs,AMD,AMD Ryzen™ 9 PRO 7940HS,Phoenix,06/13/2023,8.0,,,,16.0,4.0,5.2,8.0,16.0,,,AMD Radeon 780M,,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-9-pro-7940hs.html
+ryzen 7 pro 7730u,AMD,AMD Ryzen™ 7 PRO 7730U,Barcelo R,01/04/2023,8.0,,,,16.0,2.0,4.5,4.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-7-pro-7730u.html
+ryzen 5 pro 7540u,AMD,AMD Ryzen™ 5 PRO 7540U,Phoenix,06/13/2023,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,,30.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-5-pro-7540u.html
+ryzen 7 pro 7840u,AMD,AMD Ryzen™ 7 PRO 7840U,Phoenix,06/13/2023,8.0,,,,16.0,3.3,5.1,8.0,16.0,,,AMD Radeon 780M,,30.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-7-pro-7840u.html
+ryzen 7 pro 7840hs,AMD,AMD Ryzen™ 7 PRO 7840HS,Phoenix,06/13/2023,8.0,,,,16.0,3.8,5.1,8.0,16.0,,,AMD Radeon 780M,,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-7000-series/amd-ryzen-7-pro-7840hs.html
+ryzen 5 pro 7535u,AMD,AMD Ryzen™ 5 PRO 7535U,Rembrandt R, 9/30/2023,6.0,,,,12.0,2.9,4.55,3.0,16.0,,,AMD Radeon 660M,,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/7000-series/amd-ryzen-5-pro-7535u.html
+ryzen ai 7 pro 350,AMD,AMD Ryzen™ AI 7 PRO 350,Krackan Point,3/27/2025,8.0,,,,16.0,2.0,5.0,8.0,16.0,50.0,66.0,AMD Radeon 860M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-300-series/amd-ryzen-ai-7-pro-350.html
+ryzen ai 5 pro 340,AMD,AMD Ryzen™ AI 5 PRO 340,Krackan Point,3/27/2025,6.0,,,,12.0,2.0,4.8,6.0,16.0,50.0,59.0,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-300-series/amd-ryzen-ai-5-pro-340.html
+ryzen ai max pro 485,AMD,AMD Ryzen™ AI Max PRO 485,Gorgon Halo,,8.0,,,,16.0,3.6,5.0,8.0,32.0,50.0,106.0,Radeon 8050S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-max-pro-400-series/amd-ryzen-ai-max-pro-485.html
+ryzen ai 9 pro 465,AMD,AMD Ryzen™ AI 9 PRO 465,Gorgon Point,1/5/2026,10.0,,,,20.0,2.0,5.0,10.0,24.0,50.0,73.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-400-series/amd-ryzen-ai-9-pro-465.html
+ryzen ai 7 pro 450,AMD,AMD Ryzen™ AI 7 PRO 450,Gorgon Point,1/5/2026,8.0,,,,16.0,2.0,5.1,8.0,16.0,50.0,66.0,AMD Radeon 860M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-400-series/amd-ryzen-ai-7-pro-450.html
+ryzen ai 5 pro 440,AMD,AMD Ryzen™ AI 5 PRO 440,Gorgon Point,1/5/2026,6.0,,,,12.0,2.0,4.8,6.0,16.0,50.0,59.0,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-400-series/amd-ryzen-ai-5-pro-440.html
+ryzen ai max pro 490,AMD,AMD Ryzen™ AI Max PRO 490,Gorgon Halo,,12.0,,,,24.0,3.2,5.0,12.0,64.0,50.0,110.0,Radeon 8050S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-max-pro-400-series/amd-ryzen-ai-max-pro-490.html
+ryzen ai 9 hx pro 470,AMD,AMD Ryzen™ AI 9 HX PRO 470,Gorgon Point,1/5/2026,12.0,,,,24.0,2.0,5.2,12.0,24.0,55.0,86.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-400-series/amd-ryzen-ai-9-hx-pro-470.html
+ryzen ai 5 pro 435,AMD,AMD Ryzen™ AI 5 PRO 435,Gorgon Point,1/5/2026,6.0,,,,12.0,2.0,4.5,6.0,8.0,50.0,59.0,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-400-series/amd-ryzen-ai-5-pro-435.html
+ryzen 3 pro 5475u,AMD,AMD Ryzen™ 3 PRO 5475U,Barcelo,01/30/2022,4.0,,,,8.0,2.7,4.1,2.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-5000-series/amd-ryzen-3-pro-5475u.html
+ryzen 7 pro 5875u,AMD,AMD Ryzen™ 7 PRO 5875U,Barcelo,01/30/2022,8.0,,,,16.0,2.0,4.5,4.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-5000-series/amd-ryzen-7-pro-5875u.html
+ryzen 5 pro 5675u,AMD,AMD Ryzen™ 5 PRO 5675U,Barcelo,01/30/2022,6.0,,,,12.0,2.3,4.3,3.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-5000-series/amd-ryzen-5-pro-5675u.html
+ryzen 5 pro 5650u,AMD,AMD Ryzen™ 5 PRO 5650U,Cezanne,3/16/2021,6.0,,,,12.0,2.3,4.2,3.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-5000-series/amd-ryzen-5-pro-5650u.html
+ryzen 3 pro 5450u,AMD,AMD Ryzen™ 3 PRO 5450U,Cezanne,3/16/2021,4.0,,,,8.0,2.6,4.0,2.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-5000-series/amd-ryzen-3-pro-5450u.html
+ryzen 7 pro 5850u,AMD,AMD Ryzen™ 7 PRO 5850U,Cezanne,3/16/2021,8.0,,,,16.0,1.9,4.4,4.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-5000-series/amd-ryzen-7-pro-5850u.html
+ryzen 9 pro 6950h,AMD,AMD Ryzen™ 9 PRO 6950H,Rembrandt,,8.0,,,,16.0,3.3,4.9,4.0,16.0,,,AMD Radeon 680M,45.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-6000-series/amd-ryzen-9-pro-6950h.html
+ryzen 7 pro 6850h,AMD,AMD Ryzen™ 7 PRO 6850H,Rembrandt,,8.0,,,,16.0,3.2,4.7,4.0,16.0,,,AMD Radeon 680M,45.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-6000-series/amd-ryzen-7-pro-6850h.html
+ryzen 9 pro 6950hs,AMD,AMD Ryzen™ 9 PRO 6950HS,Rembrandt,,8.0,,,,16.0,3.3,4.9,4.0,16.0,,,AMD Radeon 680M,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 7 pro 6850u,AMD,AMD Ryzen™ 7 PRO 6850U,Rembrandt,,8.0,,,,16.0,2.7,4.7,4.0,16.0,,,AMD Radeon 680M,,28.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-6000-series/amd-ryzen-7-pro-6850u.html
+ryzen 7 pro 6850hs,AMD,AMD Ryzen™ 7 PRO 6850HS,Rembrandt,,8.0,,,,16.0,3.2,4.7,4.0,16.0,,,AMD Radeon 680M,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 pro 6650h,AMD,AMD Ryzen™ 5 PRO 6650H,Rembrandt,,6.0,,,,12.0,3.3,4.5,3.0,16.0,,,AMD Radeon 660M,45.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-6000-series/amd-ryzen-5-pro-6650h.html
+ryzen 5 pro 6650u,AMD,AMD Ryzen™ 5 PRO 6650U,Rembrandt,04/19/2022,6.0,,,,12.0,2.9,4.5,3.0,16.0,,,AMD Radeon 660M,,28.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-6000-series/amd-ryzen-5-pro-6650u.html
+ryzen 7 pro 6860z,AMD,AMD Ryzen™ 7 PRO 6860Z,Rembrandt,,8.0,,,,16.0,2.7,4.75,4.0,16.0,,,AMD Radeon 680M,28.0,28.0,15.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 pro 6650hs,AMD,AMD Ryzen™ 5 PRO 6650HS,Rembrandt,,6.0,,,,12.0,3.3,4.5,3.0,16.0,,,AMD Radeon 660M,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 3 pro 4450u,AMD,AMD Ryzen™ 3 PRO 4450U,Renoir,5/7/2020,4.0,,,,8.0,2.5,3.7,2.0,4.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-4000-series/amd-ryzen-3-pro-4450u.html
+ryzen 5 pro 4650u,AMD,AMD Ryzen™ 5 PRO 4650U,Renoir,5/7/2020,6.0,,,,12.0,2.1,4.0,3.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-4000-series/amd-ryzen-5-pro-4650u.html
+ryzen 7 pro 4750u,AMD,AMD Ryzen™ 7 PRO 4750U,Renoir,5/7/2020,8.0,,,,16.0,1.7,4.1,4.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-4000-series/amd-ryzen-7-pro-4750u.html
+ryzen 3 pro 3300u,AMD,AMD Ryzen™ 3 PRO 3300U,Picasso,4/8/2019,4.0,,,,4.0,2.1,3.5,2.0,4.0,,,Radeon Vega 6 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-3000-series/amd-ryzen-3-pro-3300u.html
+ryzen 5 pro 3500u,AMD,AMD Ryzen™ 5 PRO 3500U,Picasso,4/8/2019,4.0,,,,8.0,2.1,3.7,2.0,4.0,,,Radeon Vega 8 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-3000-series/amd-ryzen-5-pro-3500u.html
+ryzen 7 pro 3700u,AMD,AMD Ryzen™ 7 PRO 3700U,Picasso,4/8/2019,4.0,,,,8.0,2.3,4.0,2.0,4.0,,,Radeon Vega 10 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-3000-series/amd-ryzen-7-pro-3700u.html
+ryzen 7 pro 2700u,AMD,AMD Ryzen™ 7 PRO 2700U,Raven Ridge,Q1 2019,4.0,,,,8.0,2.2,3.8,2.0,4.0,,,Radeon Vega 10 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-2000-series/amd-ryzen-7-pro-2700u.html
+ryzen 3 pro 2300u,AMD,AMD Ryzen™ 3 PRO 2300U,Raven Ridge,Q1 2019,4.0,,,,4.0,2.0,3.4,2.0,4.0,,,Radeon Vega 6 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-2000-series/amd-ryzen-3-pro-2300u.html
+ryzen 5 pro 2500u,AMD,AMD Ryzen™ 5 PRO 2500U,Raven Ridge,Q1 2019,4.0,,,,8.0,2.0,3.6,2.0,4.0,,,Radeon Vega 8 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-2000-series/amd-ryzen-5-pro-2500u.html
+ryzen ai 7 pro 360,AMD,AMD Ryzen™ AI 7 PRO 360,Strix Point,10/10/2025,8.0,,,,16.0,2.0,5.0,8.0,16.0,50.0,72.0,AMD Radeon 880M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-300-series/amd-ryzen-ai-7-pro-360.html
+ryzen ai 9 hx pro 375,AMD,AMD Ryzen™ AI 9 HX PRO 375,Strix Point,10/10/2025,12.0,,,,24.0,2.0,5.1,12.0,24.0,55.0,85.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-300-series/amd-ryzen-ai-9-hx-pro-375.html
+ryzen ai 9 hx pro 370,AMD,AMD Ryzen™ AI 9 HX PRO 370,Strix Point,10/10/2025,12.0,,,,24.0,2.0,5.1,12.0,24.0,50.0,80.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-300-series/amd-ryzen-ai-9-hx-pro-370.html
+ryzen 7 pro 217,AMD,AMD Ryzen™ 7 PRO 217,Hawk Point,6/2/2026,6.0,,,,12.0,3.0,4.8,6.0,16.0,,,AMD Radeon 740M,35.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-7-pro-217.html
+ryzen 5 pro 216,AMD,AMD Ryzen™ 5 PRO 216,Hawk Point,6/2/2026,6.0,,,,12.0,2.9,4.7,6.0,16.0,,,AMD Radeon 740M,28.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-5-pro-216.html
+ryzen 7 pro 250,AMD,AMD Ryzen™ 7 PRO 250,Hawk Point,3/27/2025,8.0,,,,16.0,3.3,5.1,8.0,16.0,16.0,38.0,AMD Radeon 780M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-7-pro-250.html
+ryzen 3 pro 210,AMD,AMD Ryzen™ 3 PRO 210,Hawk Point,3/27/2025,4.0,,,,8.0,3.0,4.7,4.0,8.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-3-pro-210.html
+ryzen 5 pro 230,AMD,AMD Ryzen™ 5 PRO 230,Hawk Point,3/27/2025,6.0,,,,12.0,3.5,4.9,6.0,16.0,16.0,31.0,AMD Radeon 760M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-5-pro-230.html
+ryzen 5 pro 220,AMD,AMD Ryzen™ 5 PRO 220,Hawk Point,3/27/2025,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-5-pro-220.html
+ryzen 5 pro 215,AMD,AMD Ryzen™ 5 PRO 215,Hawk Point,3/27/2025,6.0,,,,12.0,3.2,4.7,6.0,16.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-5-pro-215.html
+ryzen ai 9 hx pro 475,AMD,AMD Ryzen™ AI 9 HX PRO 475,Gorgon Point,1/5/2026,12.0,,,,24.0,2.0,5.2,12.0,24.0,60.0,91.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-400-series/amd-ryzen-ai-9-hx-pro-475.html
+ryzen 5 pro 224,AMD,AMD Ryzen™ 5 PRO 224,Hawk Point,6/2/2026,6.0,,,,12.0,3.3,4.8,6.0,16.0,16.0,,AMD Radeon 760M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-5-pro-224.html
+ryzen 7 pro 249,AMD,AMD Ryzen™ 7 PRO 249,Hawk Point,6/2/2026,8.0,,,,16.0,3.1,4.9,8.0,16.0,16.0,,AMD Radeon 780M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-7-pro-249.html
+ryzen 3 pro 205,AMD,AMD Ryzen™ 3 PRO 205,Hawk Point,6/2/2026,4.0,,,,8.0,2.8,4.6,4.0,8.0,,,AMD Radeon 740M,28.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-3-pro-205.html
+ryzen 7 pro 253,AMD,AMD Ryzen™ 7 PRO 253,Hawk Point,6/2/2026,8.0,,,,16.0,3.6,4.9,8.0,16.0,16.0,,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-7-pro-253.html
+ryzen 5 pro 225,AMD,AMD Ryzen™ 5 PRO 225,Hawk Point,6/2/2026,6.0,,,,12.0,3.3,4.8,6.0,16.0,16.0,,AMD Radeon 760M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/200-series/amd-ryzen-5-pro-225.html
+ryzen 9 pro 8945hs,AMD,AMD Ryzen™ 9 PRO 8945HS,Hawk Point,,8.0,,,,16.0,4.0,5.2,8.0,16.0,16.0,39.0,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-9-pro-8945hs.html
+ryzen 5 pro 8540u,AMD,AMD Ryzen™ 5 PRO 8540U,Hawk Point,,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-5-pro-8540u.html
+ryzen 5 pro 8640hs,AMD,AMD Ryzen™ 5 PRO 8640HS,Hawk Point,,6.0,,,,12.0,3.5,4.9,6.0,16.0,16.0,31.0,AMD Radeon 760M,28.0,30.0,20.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-5-pro-8640hs.html
+ryzen 5 pro 8645hs,AMD,AMD Ryzen™ 5 PRO 8645HS,Hawk Point,,6.0,,,,12.0,4.3,5.0,6.0,16.0,16.0,31.0,AMD Radeon 760M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-5-pro-8645hs.html
+ryzen 7 pro 8845hs,AMD,AMD Ryzen™ 7 PRO 8845HS,Hawk Point,04/16/2024,8.0,,,,16.0,3.8,5.1,8.0,16.0,16.0,38.0,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-7-pro-8845hs.html
+ryzen 5 pro 8640u,AMD,AMD Ryzen™ 5 PRO 8640U,Hawk Point,,6.0,,,,12.0,3.5,4.9,6.0,16.0,16.0,31.0,AMD Radeon 760M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-5-pro-8640u.html
+ryzen 7 pro 8840hs,AMD,AMD Ryzen™ 7 PRO 8840HS,Hawk Point,,8.0,,,,16.0,3.3,5.1,8.0,16.0,16.0,39.0,AMD Radeon 780M,28.0,30.0,20.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-7-pro-8840hs.html
+ryzen 7 pro 8840u,AMD,AMD Ryzen™ 7 PRO 8840U,Hawk Point,,8.0,,,,16.0,3.3,5.1,8.0,16.0,16.0,38.0,AMD Radeon 780M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-7-pro-8840u.html
+ryzen ai max+ pro 495,AMD,AMD Ryzen™AI Max+ PRO 495,Gorgon Halo,,16.0,,,,32.0,3.1,5.2,16.0,64.0,55.0,132.0,Radeon 8065S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen-pro/ai-max-pro-400-series/amd-ryzen-ai-max-plus-pro-495.html
+ryzen 7 4800hs,AMD,AMD Ryzen™ 7 4800HS,Renoir,,8.0,,,,16.0,2.9,4.2,4.0,8.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 4680u microsoft surface edition,AMD,AMD Ryzen™ 5 4680U Microsoft Surface® Edition,Renoir,4/13/2021,6.0,,,,12.0,2.2,4.0,3.0,8.0,,,Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4680u-microsoft-surface-edition.html
+ryzen 7 4700u,AMD,AMD Ryzen™ 7 4700U,Renoir,1/6/2020,8.0,,,,8.0,2.0,4.1,4.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-7-4700u.html
+ryzen 7 4800h,AMD,AMD Ryzen™ 7 4800H,Renoir,1/6/2020,8.0,,,,16.0,2.9,4.2,4.0,8.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-7-4800h.html
+ryzen 5 4600u,AMD,AMD Ryzen™ 5 4600U,Renoir,1/6/2020,6.0,,,,12.0,2.1,4.0,3.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4600u.html
+ryzen 7 4980u microsoft surface edition,AMD,AMD Ryzen™ 7 4980U Microsoft Surface® Edition,Renoir,4/13/2021,8.0,,,,16.0,2.0,4.4,4.0,8.0,,,Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-7-4980u-microsoft-surface-edition.html
+ryzen 7 8845hs,AMD,AMD Ryzen™ 7 8845HS,Hawk Point,12/06/2023,8.0,,,,16.0,3.8,5.1,8.0,16.0,16.0,38.0,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8845hs.html
+ryzen 9 8945hx,AMD,AMD Ryzen™ 9 8945HX,Dragon Range,4/23/25,16.0,,,,32.0,2.5,5.4,16.0,64.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-9-8945hx.html
+ryzen 7 8745hx,AMD,AMD Ryzen™ 7 8745HX,Dragon Range,4/23/25,8.0,,,,16.0,3.6,5.1,8.0,32.0,,,AMD Radeon 610M,55.0,75.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8745hx.html
+ryzen 7 8840hx,AMD,AMD Ryzen™ 7 8840HX,Dragon Range,4/23/25,12.0,,,,24.0,2.9,5.1,12.0,64.0,,,AMD Radeon 610M,55.0,75.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8840hx.html
+ryzen 9 8940hx,AMD,AMD Ryzen™ 9 8940HX,Dragon Range,4/23/25,16.0,,,,32.0,2.4,5.3,16.0,64.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-9-8940hx.html
+ryzen 5 3500c,AMD,AMD Ryzen™ 5 3500C,Picasso,9/22/2020,4.0,,,,8.0,2.1,3.7,2.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 3 3100u,AMD,AMD Ryzen™ 3 3100U,Picasso,Q2 2026,2.0,,,,2.0,1.9,3.2,1.0,4.0,,,Radeon Vega 8 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/products/processors/laptop/ryzen/3000-series/amd-ryzen-3-3100u.html
+ryzen 7 3750h,AMD,AMD Ryzen™ 7 3750H,Picasso,Q1 2019,4.0,,,,8.0,2.3,4.0,2.0,4.0,,,Radeon RX Vega 10 Graphics,35.0,35.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-7-3750h.html
+ryzen 3 3250u,AMD,AMD Ryzen™ 3 3250U,Dali,1/6/2020,2.0,,,,4.0,2.6,3.5,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-3-3250u.html
+ryzen 5 3450u,AMD,AMD Ryzen™ 5 3450U,Picasso,Q2 2020,4.0,,,,8.0,2.1,3.5,2.0,4.0,,,Radeon Vega 8 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 3550h,AMD,AMD Ryzen™ 5 3550H,Picasso,Q1 2019,4.0,,,,8.0,2.1,3.7,2.0,4.0,,,Radeon Vega 8 Graphics,35.0,35.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-5-3550h.html
+ryzen 3 3350u,AMD,AMD Ryzen™ 3 3350U,Picasso,Q1 2019,4.0,,,,4.0,2.1,3.5,2.0,4.0,,,Radeon Vega 6 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 7 3700u,AMD,AMD Ryzen™ 7 3700U,Picasso,Q1 2019,4.0,,,,8.0,2.3,4.0,2.0,4.0,,,Radeon RX Vega 10 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-7-3700u.html
+ryzen 3 3250c,AMD,AMD Ryzen™ 3 3250C,Picasso,9/22/2020,2.0,,,,4.0,2.6,3.5,1.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 3500u,AMD,AMD Ryzen™ 5 3500U,Picasso,Q1 2019,4.0,,,,8.0,2.1,3.7,2.0,4.0,,,Radeon Vega 8 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-5-3500u.html
+ryzen 3 3300u,AMD,AMD Ryzen™ 3 3300U,Picasso,Q1 2019,4.0,,,,4.0,2.1,3.5,2.0,4.0,,,Radeon Vega 6 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-3-3300u.html
+ryzen 7 3780u microsoft surface edition,AMD,AMD Ryzen™ 7 3780U Microsoft Surface® Edition,Picasso,,4.0,,,,8.0,2.3,4.0,2.0,4.0,,,Radeon RX Vega 11 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-7-3780u-microsoft-surface-edition.html
+ryzen 5 3580u microsoft surface edition,AMD,AMD Ryzen™ 5 3580U Microsoft Surface® Edition,Picasso,,4.0,,,,8.0,2.1,3.7,2.0,4.0,,,Radeon Vega 9 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-5-3580u-microsoft-surface-edition.html
+ryzen 7 3700c,AMD,AMD Ryzen™ 7 3700C,Picasso,9/22/2020,4.0,,,,8.0,2.3,4.0,2.0,4.0,,,AMD Radeon Graphics,15.0,25.0,12.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 3 3200u,AMD,AMD Ryzen™ 3 3200U,Picasso,Q1 2019,2.0,,,,4.0,2.6,3.5,1.0,4.0,,,Radeon Vega 3 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-3-3200u.html
+ryzen 7 2700u,AMD,AMD Ryzen™ 7 2700U,Raven Ridge,10/26/2017,4.0,,,,8.0,2.2,3.8,2.0,4.0,,,Radeon RX Vega 10 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-7-2700u.html
+ryzen 3 2300u,AMD,AMD Ryzen™ 3 2300U,Raven Ridge,1/8/2018,4.0,,,,4.0,2.0,3.4,2.0,4.0,,,Radeon Vega 6 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-3-2300u.html
+ryzen 7 2800h,AMD,AMD Ryzen™ 7 2800H,Raven Ridge,9/10/2018,4.0,,,,8.0,3.3,3.8,2.0,4.0,,,Radeon RX Vega 11 Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-7-2800h.html
+ryzen 3 2200u,AMD,AMD Ryzen™ 3 2200U,Raven Ridge,1/8/2018,2.0,,,,4.0,2.5,3.4,1.0,4.0,,,Radeon Vega 3 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-3-2200u.html
+ryzen 5 2500u,AMD,AMD Ryzen™ 5 2500U,Raven Ridge,10/26/2017,4.0,,,,8.0,2.0,3.6,2.0,4.0,,,Radeon Vega 8 Graphics,15.0,25.0,12.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-5-2500u.html
+ryzen 5 2600h,AMD,AMD Ryzen™ 5 2600H,Raven Ridge,9/10/2018,4.0,,,,8.0,3.2,3.6,2.0,4.0,,,Radeon Vega 8 Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-5-2600h.html
+ryzen 9 7845hx,AMD,AMD Ryzen™ 9 7845HX,Dragon Range,02/28/2023,12.0,,,,24.0,3.0,5.2,12.0,64.0,,,AMD Radeon 610M,55.0,75.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7845hx.html
+ryzen 5 7235hs,AMD,AMD Ryzen™ 5 7235HS,Rembrandt R,,4.0,,,,8.0,3.2,4.2,2.0,8.0,,,無內顯（需搭配獨顯）,45.0,53.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7235hs.html
+ryzen 7 7435hs,AMD,AMD Ryzen™ 7 7435HS,Rembrandt R,,8.0,,,,16.0,3.1,4.5,4.0,16.0,,,無內顯（需搭配獨顯）,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7435hs.html
+ryzen 5 7535u,AMD,AMD Ryzen™ 5 7535U,Rembrandt R,Q1 2023,6.0,,,,12.0,2.9,4.55,3.0,16.0,,,AMD Radeon 660M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7535u.html
+ryzen 3 7330u,AMD,AMD Ryzen™ 3 7330U,Barcelo R,Q1 2023,4.0,,,,8.0,2.3,4.3,2.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-3-7330u.html
+ryzen 5 7640u,AMD,AMD Ryzen™ 5 7640U,Phoenix,05/03/2023,6.0,,,,12.0,3.5,4.9,6.0,16.0,10.0,25.0,AMD Radeon 760M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640u.html
+ryzen 7 7745hx,AMD,AMD Ryzen™ 7 7745HX,Dragon Range,02/28/2023,8.0,,,,16.0,3.6,5.1,8.0,32.0,,,AMD Radeon 610M,55.0,75.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7745hx.html
+ryzen 7 7735hs,AMD,AMD Ryzen™ 7 7735HS,Rembrandt R,Q2 2023,8.0,,,,16.0,3.2,4.75,4.0,16.0,,,AMD Radeon 680M,35.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7735hs.html
+ryzen 7 7735u,AMD,AMD Ryzen™ 7 7735U,Rembrandt R,Q1 2023,8.0,,,,16.0,2.7,4.75,4.0,16.0,,,AMD Radeon 680M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7735u.html
+ryzen 3 7320c,AMD,AMD Ryzen™ 3 7320C,Mendocino,05/23/2023,4.0,,,,8.0,2.4,4.1,2.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-3-7320c.html
+ryzen 5 7535hs,AMD,AMD Ryzen™ 5 7535HS,Rembrandt R,Q2 2023,6.0,,,,12.0,3.3,4.55,3.0,16.0,,,AMD Radeon 660M,35.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7535hs.html
+ryzen 5 7520u,AMD,AMD Ryzen™ 5 7520U,Mendocino,09/20/2022,4.0,,,,8.0,2.8,4.3,2.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7520u.html
+ryzen 7 7736u​,AMD,AMD Ryzen™ 7 7736U​,Rembrandt R,01/04/2023,8.0,,,,16.0,2.7,4.7,4.0,16.0,,,AMD Radeon 680M,,28.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7736u.html
+ryzen 7 7840hx,AMD,AMD Ryzen™ 7 7840HX,Dragon Range, 1/17/2024,12.0,,,,24.0,2.9,5.1,12.0,64.0,,,AMD Radeon 610M,55.0,75.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840hx.html
+ryzen 3 7440u,AMD,AMD Ryzen™ 3 7440U,Phoenix,05/03/2023,4.0,,,,8.0,3.0,4.7,4.0,8.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-3-7440u.html
+ryzen 5 7640hs,AMD,AMD Ryzen™ 5 7640HS,Phoenix,04/30/2023,6.0,,,,12.0,4.3,5.0,6.0,16.0,,,AMD Radeon 760M,35.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640hs.html
+ryzen 3 7335u,AMD,AMD Ryzen™ 3 7335U,Rembrandt R,Q1 2023,4.0,,,,8.0,3.0,4.3,2.0,8.0,,,AMD Radeon 660M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-3-7335u.html
+ryzen 5 7520c,AMD,AMD Ryzen™ 5 7520C,Mendocino,05/23/2023,4.0,,,,8.0,2.8,4.3,2.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7520c.html
+ryzen 5 7530u,AMD,AMD Ryzen™ 5 7530U,Barcelo R,Q1 2023,6.0,,,,12.0,2.0,4.5,3.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7530u.html
+ryzen 7 7840u,AMD,AMD Ryzen™ 7 7840U,Phoenix,05/03/2023,8.0,,,,16.0,3.3,5.1,8.0,16.0,10.0,32.0,AMD Radeon 780M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840u.html
+ryzen 5 7645hx,AMD,AMD Ryzen™ 5 7645HX,Dragon Range,02/28/2023,6.0,,,,12.0,4.0,5.0,6.0,32.0,,,AMD Radeon 610M,55.0,75.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7645hx.html
+ryzen 7 7445hs,AMD,AMD Ryzen 7 7445HS,Phoenix,05/03/2023,6.0,,,,12.0,3.55,4.7,6.0,16.0,,,AMD Radeon 740M,35.0,40.0,20.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7445hs.html
+ryzen 9 7945hx3d,AMD,AMD Ryzen™ 9 7945HX3D,Dragon Range,07/27/2023,16.0,,,,32.0,2.3,5.4,16.0,128.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7950hx3d.html
+ryzen 9 7940hs,AMD,AMD Ryzen™ 9 7940HS,Phoenix,04/30/2023,8.0,,,,16.0,4.0,5.2,8.0,16.0,,,AMD Radeon 780M,35.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7940hs.html
+ryzen 7 7730u,AMD,AMD Ryzen™ 7 7730U,Barcelo R,Q1 2023,8.0,,,,16.0,2.0,4.5,4.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7730u.html
+ryzen 9 7945hx,AMD,AMD Ryzen™ 9 7945HX,Dragon Range,02/28/2023,16.0,,,,32.0,2.5,5.4,16.0,64.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7945hx.html
+ryzen 5 7545u,AMD,AMD Ryzen™ 5 7545U,Phoenix,11/02/2023,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7545u.html
+ryzen 7 7840hs,AMD,AMD Ryzen™ 7 7840HS,Phoenix,Q4 2023,8.0,,,,16.0,3.8,5.1,8.0,16.0,,,AMD Radeon 780M,35.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840hs.html
+ryzen 5 7430u,AMD,AMD Ryzen™ 5 7430U,Barcelo R,Q4 2023,6.0,,,,12.0,2.3,4.3,3.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7430u.html
+ryzen 5 7540u,AMD,AMD Ryzen™ 5 7540U,Phoenix,05/03/2023,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7540u.html
+ryzen 5 7533hs,AMD,AMD Ryzen™ 5 7533HS,Rembrandt R,Q3 2024,6.0,,,,12.0,3.3,4.4,3.0,16.0,,,AMD Radeon 660M,35.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7533hs.html
+ryzen 3 7320u,AMD,AMD Ryzen™ 3 7320U,Mendocino,09/20/2022,4.0,,,,8.0,2.4,4.1,2.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-3-7320u.html
+ryzen 9 7940hx,AMD,AMD Ryzen™ 9 7940HX,Dragon Range, 1/17/2024,16.0,,,,32.0,2.4,5.2,16.0,64.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7940hx.html
+ryzen ai 9 hx 370,AMD,AMD Ryzen™ AI 9 HX 370,Strix Point,7/28/2025,12.0,,,,24.0,2.0,5.1,12.0,24.0,50.0,80.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-370.html
+ryzen ai 9 365,AMD,AMD Ryzen™ AI 9 365,Strix Point,7/28/2025,10.0,,,,20.0,2.0,5.0,10.0,24.0,50.0,73.0,AMD Radeon 880M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-365.html
+ryzen ai max+ 388,AMD,AMD Ryzen™ AI Max+ 388,Strix Halo,,8.0,,,,16.0,3.6,5.0,8.0,32.0,50.0,118.0,Radeon 8060S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-388.html
+ryzen ai max 390,AMD,AMD Ryzen™ AI Max 390,Strix Halo,,12.0,,,,24.0,3.2,5.0,12.0,64.0,50.0,110.0,Radeon 8050S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-390.html
+ryzen ai max+ 392,AMD,AMD Ryzen™ AI Max+ 392,Strix Halo,,12.0,,,,24.0,3.2,5.0,12.0,64.0,50.0,122.0,Radeon 8060S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-392.html
+ryzen ai max 385,AMD,AMD Ryzen™ AI Max 385,Strix Halo,,8.0,,,,16.0,3.6,5.0,8.0,32.0,50.0,106.0,Radeon 8050S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-385.html
+ryzen ai 7 350,AMD,AMD Ryzen™ AI 7 350,Krackan Point,2/18/2025,8.0,,,,16.0,2.0,5.0,8.0,16.0,50.0,66.0,AMD Radeon 860M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-350.html
+ryzen ai 9 hx 375,AMD,AMD Ryzen™ AI 9 HX 375,Strix Point,7/28/2025,12.0,,,,24.0,2.0,5.1,12.0,24.0,55.0,85.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-9-hx-375.html
+ryzen ai 7 345,AMD,AMD Ryzen™ AI 7 345,Krackan Point,1/15/2025,6.0,,,,12.0,2.0,4.6,6.0,8.0,50.0,59.0,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-7-345.html
+ryzen ai 5 330,AMD,AMD Ryzen™ AI 5 330,Krackan Point,7/30/2025,4.0,,,,8.0,2.0,4.5,4.0,8.0,50.0,56.0,AMD Radeon 820M,28.0,28.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-330.html
+ryzen ai 5 340,AMD,AMD Ryzen™ AI 5 340,Krackan Point,2/18/2025,6.0,,,,12.0,2.0,4.8,6.0,16.0,50.0,59.0,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html
+ryzen ai 9 hx 475,AMD,AMD Ryzen™ AI 9 HX 475,Gorgon Point,1/5/2026,12.0,,,,24.0,2.0,5.2,12.0,24.0,60.0,91.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-400-series/amd-ryzen-ai-9-hx-475.html
+ryzen ai 7 450,AMD,AMD Ryzen™ AI 7 450,Gorgon Point,1/5/2026,8.0,,,,16.0,2.0,5.1,8.0,16.0,50.0,66.0,AMD Radeon 860M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-400-series/amd-ryzen-ai-7-450.html
+ryzen ai 5 430,AMD,AMD Ryzen™ AI 5 430,Gorgon Point,1/5/2026,4.0,,,,8.0,2.0,4.5,4.0,8.0,50.0,58.0,AMD Radeon 840M,28.0,28.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-400-series/amd-ryzen-ai-5-430.html
+ryzen ai 7 445,AMD,AMD Ryzen™ AI 7 445,Gorgon Point,1/5/2026,6.0,,,,12.0,2.0,4.6,6.0,8.0,50.0,59.0,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-400-series/amd-ryzen-ai-7-445.html
+ryzen ai 9 hx 470,AMD,AMD Ryzen™ AI 9 HX 470,Gorgon Point,1/5/2026,12.0,,,,24.0,2.0,5.2,12.0,24.0,55.0,86.0,AMD Radeon 890M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-400-series/amd-ryzen-ai-9-hx-470.html
+ryzen ai 9 465,AMD,AMD Ryzen™ AI 9 465,Gorgon Point,1/5/2026,10.0,,,,20.0,2.0,5.0,10.0,24.0,50.0,73.0,AMD Radeon 880M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-400-series/amd-ryzen-ai-9-465.html
+ryzen ai 5 435,AMD,AMD Ryzen™ AI 5 435,Gorgon Point,1/5/2026,6.0,,,,12.0,2.0,4.5,6.0,8.0,50.0,59.0,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-400-series/amd-ryzen-ai-5-435.html
+ryzen 3 5425c,AMD,AMD Ryzen™ 3 5425C,Barcelo,,4.0,,,,8.0,2.7,4.1,2.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 9 5900hs,AMD,AMD Ryzen™ 9 5900HS,Cezanne,1/12/2021,8.0,,,,16.0,3.0,4.6,4.0,16.0,,,AMD Radeon Graphics,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 7 5700u,AMD,AMD Ryzen™ 7 5700U,Lucienne,1/12/2021,8.0,,,,16.0,1.8,4.3,4.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-7-5700u.html
+ryzen 9 5900hx,AMD,AMD Ryzen™ 9 5900HX,Cezanne,1/12/2021,8.0,,,,16.0,3.3,4.6,4.0,16.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-9-5900hx.html
+ryzen 5 5600hs,AMD,AMD Ryzen™ 5 5600HS,Cezanne,1/12/2021,6.0,,,,12.0,3.0,4.2,3.0,16.0,,,AMD Radeon Graphics,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 5625u,AMD,AMD Ryzen™ 5 5625U,Barcelo,01/30/2022,6.0,,,,12.0,2.3,4.3,3.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5625u.html
+ryzen 7 5800hs,AMD,AMD Ryzen™ 7 5800HS,Cezanne,1/12/2021,8.0,,,,16.0,2.8,4.4,4.0,16.0,,,AMD Radeon Graphics,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 5600h,AMD,AMD Ryzen™ 5 5600H,Cezanne,1/12/2021,6.0,,,,12.0,3.3,4.2,3.0,16.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5600h.html
+ryzen 7 5825u,AMD,AMD Ryzen™ 7 5825U,Barcelo,01/30/2022,8.0,,,,16.0,2.0,4.5,4.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-7-5825u.html
+ryzen 9 5980hs,AMD,AMD Ryzen™ 9 5980HS,Cezanne,1/12/2021,8.0,,,,16.0,3.0,4.8,4.0,16.0,,,AMD Radeon Graphics,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 5600u,AMD,AMD Ryzen™ 5 5600U,Cezanne,1/12/2021,6.0,,,,12.0,2.3,4.2,3.0,16.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5600u.html
+ryzen 7 5800h,AMD,AMD Ryzen™ 7 5800H,Cezanne,1/12/2021,8.0,,,,16.0,3.2,4.4,4.0,16.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-7-5800h.html
+ryzen 3 5300u,AMD,AMD Ryzen™ 3 5300U,Lucienne,1/12/2021,4.0,,,,8.0,2.6,3.8,2.0,4.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-3-5300u.html
+ryzen 7 5800u,AMD,AMD Ryzen™ 7 5800U,Cezanne,1/12/2021,8.0,,,,16.0,1.9,4.4,4.0,16.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-7-5800u.html
+ryzen 5 5500h,AMD,AMD Ryzen™ 5 5500H,Cezanne,06/23/2023,4.0,,,,8.0,3.3,4.2,2.0,8.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 9 5980hx,AMD,AMD Ryzen™ 9 5980HX,Cezanne,1/12/2021,8.0,,,,16.0,3.3,4.8,4.0,16.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-9-5980hx.html
+ryzen 5 5625c,AMD,AMD Ryzen™ 5 5625C,Barcelo,,6.0,,,,12.0,2.3,4.3,3.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 7 5825c,AMD,AMD Ryzen™ 7 5825C,Barcelo,,8.0,,,,16.0,2.0,4.5,4.0,16.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 3 5125c,AMD,AMD Ryzen™ 3 5125C,Barcelo,05/05/2022,2.0,,,,4.0,3.0,3.0,1.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 3 5425u,AMD,AMD Ryzen™ 3 5425U,Barcelo,01/30/2022,4.0,,,,8.0,2.7,4.1,2.0,8.0,,,AMD Radeon Graphics,15.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-3-5425u.html
+ryzen 3 5400u,AMD,AMD Ryzen™ 3 5400U,Cezanne,1/12/2021,4.0,,,,8.0,2.6,4.0,2.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-3-5400u.html
+ryzen 5 5560u,AMD,AMD Ryzen™ 5 5560U,Cezanne,01/12/2021,6.0,,,,12.0,2.3,4.0,3.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 5 5500u,AMD,AMD Ryzen™ 5 5500U,Lucienne,1/12/2021,6.0,,,,12.0,2.1,4.0,3.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5500u.html
+ryzen 9 9955hx3d,AMD,AMD Ryzen™ 9 9955HX3D,Fire Range,,16.0,,,,32.0,2.5,5.4,16.0,128.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/9000-series/amd-ryzen-9-9955hx3d.html
+ryzen 9 9955hx,AMD,AMD Ryzen™ 9 9955HX,Fire Range,,16.0,,,,32.0,2.5,5.4,16.0,64.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/9000-series/amd-ryzen-9-9955hx.html
+ryzen 7 6800u​,AMD,AMD Ryzen™ 7 6800U​,Rembrandt,04/19/2022,8.0,,,,16.0,2.7,4.7,4.0,16.0,,,AMD Radeon 680M,,28.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-6000-series/amd-ryzen-7-6800u.html
+ryzen 5 6600h,AMD,AMD Ryzen™ 5 6600H,Rembrandt,,6.0,,,,12.0,3.3,4.5,3.0,16.0,,,AMD Radeon 660M,45.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-6000-series/amd-ryzen-5-6600h.html
+ryzen 5 6600hs​,AMD,AMD Ryzen™ 5 6600HS​,Rembrandt,,6.0,,,,12.0,3.3,4.5,3.0,16.0,,,AMD Radeon 660M,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 9 6980hs,AMD,AMD Ryzen™ 9 6980HS,Rembrandt,,8.0,,,,16.0,3.3,5.0,4.0,16.0,,,AMD Radeon 680M,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 7 6800hs,AMD,AMD Ryzen™ 7 6800HS,Rembrandt,,8.0,,,,16.0,3.2,4.7,4.0,16.0,,,AMD Radeon 680M,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 7 6800h,AMD,AMD Ryzen™ 7 6800H,Rembrandt,,8.0,,,,16.0,3.2,4.7,4.0,16.0,,,AMD Radeon 680M,45.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-6000-series/amd-ryzen-7-6800h.html
+ryzen 5 6600u,AMD,AMD Ryzen™ 5 6600U,Rembrandt,04/19/2022,6.0,,,,12.0,2.9,4.5,3.0,16.0,,,AMD Radeon 660M,,28.0,15.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-6000-series/amd-ryzen-5-6600u.html
+ryzen 9 6900hs​,AMD,AMD Ryzen™ 9 6900HS​,Rembrandt,,8.0,,,,16.0,3.3,4.9,4.0,16.0,,,AMD Radeon 680M,35.0,,,,https://www.amd.com/en/products/specifications/processors.html
+ryzen 9 6900hx,AMD,AMD Ryzen™ 9 6900HX,Rembrandt,,8.0,,,,16.0,3.3,4.9,4.0,16.0,,,AMD Radeon 680M,45.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-6000-series/amd-ryzen-9-6900hx.html
+ryzen 9 6980hx,AMD,AMD Ryzen™ 9 6980HX,Rembrandt,,8.0,,,,16.0,3.3,5.0,4.0,16.0,,,AMD Radeon 680M,45.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-6000-series/amd-ryzen-9-6980hx.html
+ryzen 5 40,AMD,AMD Ryzen™ 5 40,Mendocino,10/1/2025,4.0,,,,8.0,2.8,4.3,2.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/10-series/amd-ryzen-5-40.html
+ryzen 3 30,AMD,AMD Ryzen™ 3 30,Mendocino,10/1/2025,4.0,,,,8.0,2.4,4.1,2.0,4.0,,,AMD Radeon 610M,15.0,,,,https://www.amd.com/en/products/processors/laptop/ryzen/10-series/amd-ryzen-3-30.html
+ryzen 9 4900hs,AMD,AMD Ryzen™ 9 4900HS,Renoir,,8.0,,,,16.0,3.0,4.3,4.0,8.0,,,AMD Radeon Graphics,35.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-9-4900hs.html
+ryzen 7 4800u,AMD,AMD Ryzen™ 7 4800U,Renoir,1/6/2020,8.0,,,,16.0,1.8,4.2,4.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-7-4800u.html
+ryzen 5 4600h,AMD,AMD Ryzen™ 5 4600H,Renoir,1/6/2020,6.0,,,,12.0,3.0,4.0,3.0,8.0,,,AMD Radeon Graphics,45.0,54.0,35.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4600h.html
+ryzen 3 4300u,AMD,AMD Ryzen™ 3 4300U,Renoir,1/6/2020,4.0,,,,4.0,2.7,3.7,2.0,4.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-3-4300u.html
+ryzen 9 4900h,AMD,AMD Ryzen™ 9 4900H,Renoir,3/16/2020,8.0,,,,16.0,3.3,4.4,4.0,8.0,,,AMD Radeon Graphics,35.0,,,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-9-4900h.html
+ryzen 5 4500u,AMD,AMD Ryzen™ 5 4500U,Renoir,1/6/2020,6.0,,,,6.0,2.3,4.0,3.0,8.0,,,AMD Radeon Graphics,15.0,25.0,10.0,,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4500u.html
+ryzen 7 217,AMD,AMD Ryzen™ 7 217,Hawk Point,6/2/2026,6.0,,,,12.0,3.0,4.8,6.0,16.0,,,AMD Radeon 740M Graphics,35.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-7-217.html
+ryzen 5 216,AMD,AMD Ryzen™ 5 216,Hawk Point,6/2/2026,6.0,,,,12.0,2.9,4.7,6.0,16.0,,,AMD Radeon 740M Graphics,28.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-5-216.html
+ryzen 7 250,AMD,AMD Ryzen™ 7 250,Hawk Point,2/18/2025,8.0,,,,16.0,3.3,5.1,8.0,16.0,16.0,38.0,AMD Radeon 780M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-7-250.html
+ryzen 7 260,AMD,AMD Ryzen™ 7 260,Hawk Point,2/18/2025,8.0,,,,16.0,3.8,5.1,8.0,16.0,16.0,38.0,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-7-260.html
+ryzen 9 270,AMD,AMD Ryzen™ 9 270,Hawk Point,2/18/2025,8.0,,,,16.0,4.0,5.2,8.0,16.0,16.0,39.0,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-9-270.html
+ryzen 3 8440u,AMD,AMD Ryzen™ 3 8440U,Hawk Point,,4.0,,,,8.0,3.0,4.7,4.0,8.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-3-8440u.html
+ryzen 5 8640hs,AMD,AMD Ryzen™ 5 8640HS,Hawk Point,,6.0,,,,12.0,3.5,4.9,6.0,16.0,16.0,31.0,AMD Radeon 760M,28.0,30.0,20.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-5-8640hs.html
+ryzen 7 8840u,AMD,AMD Ryzen™ 7 8840U,Hawk Point,,8.0,,,,16.0,3.3,5.1,8.0,16.0,16.0,38.0,AMD Radeon 780M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8840u.html
+ryzen 5 8640u,AMD,AMD Ryzen™ 5 8640U,Hawk Point,,6.0,,,,12.0,3.5,4.9,6.0,16.0,16.0,31.0,AMD Radeon 760M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-5-8640u.html
+ryzen 7 8840hs,AMD,AMD Ryzen™ 7 8840HS,Hawk Point,,8.0,,,,16.0,3.3,5.1,8.0,16.0,16.0,39.0,AMD Radeon 780M,28.0,30.0,20.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8840hs.html
+ryzen 5 230,AMD,AMD Ryzen™ 5 230,Hawk Point,2/18/2025,6.0,,,,12.0,3.5,4.9,6.0,16.0,16.0,31.0,AMD Radeon 760M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-5-230.html
+ryzen 5 240,AMD,AMD Ryzen™ 5 240,Hawk Point,2/18/2025,6.0,,,,12.0,4.3,5.0,6.0,16.0,16.0,31.0,AMD Radeon 760M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-5-240.html
+ryzen 5 220,AMD,AMD Ryzen™ 5 220,Hawk Point,2/18/2025,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-5-220.html
+ryzen 3 210,AMD,AMD Ryzen™ 3 210,Hawk Point,2/18/2025,4.0,,,,8.0,3.0,4.7,4.0,8.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-3-210.html
+ryzen 9 8945hs,AMD,AMD Ryzen™ 9 8945HS,Hawk Point,,8.0,,,,16.0,4.0,5.2,8.0,16.0,16.0,39.0,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-9-8945hs.html
+ryzen 5 8540u,AMD,AMD Ryzen™ 5 8540U,Hawk Point,,6.0,,,,12.0,3.2,4.9,6.0,16.0,,,AMD Radeon 740M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-5-8540u.html
+ryzen 5 8645hs,AMD,AMD Ryzen™ 5 8645HS,Hawk Point,,6.0,,,,12.0,4.3,5.0,6.0,16.0,16.0,31.0,AMD Radeon 760M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-5-8645hs.html
+ryzen 5 7525u,AMD,AMD Ryzen™ 5 7525U,,,4.0,,,,8.0,2.8,3.8,2.0,4.0,,,AMD Radeon Graphics,15.0,20.0,6.0,,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7525u.html
+ryzen 7 155,AMD,AMD Ryzen™ 7 155,Hawk Point,6/2/2026,6.0,,,,12.0,3.0,4.7,6.0,16.0,,,AMD Radeon 740M Graphics,35.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-7-155.html
+ryzen 7 165,AMD,AMD Ryzen™ 7 165,Hawk Point,6/2/2026,6.0,,,,12.0,3.3,4.7,6.0,16.0,,,AMD Radeon 760M Graphics,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-7-165.html
+ryzen 5 125,AMD,AMD Ryzen™ 5 125,Hawk Point,6/2/2026,4.0,,,,8.0,2.8,4.5,4.0,8.0,,,AMD Radeon 740M Graphics,28.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-7-125.html
+ryzen 9 180,AMD,AMD Ryzen™ 9 180,Hawk Point,6/2/2026,8.0,,,,16.0,3.6,4.9,8.0,16.0,,,AMD Radeon 780M Graphics,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-9-180.html
+ryzen 5 150,AMD,AMD Ryzen™ 5 150,Rembrandt,10/01/2025,6.0,,,,12.0,3.3,4.55,3.0,16.0,,,AMD Radeon 660M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-5-150.html
+ryzen 7 160,AMD,AMD Ryzen™ 7 160,Rembrandt,10/01/2025,8.0,,,,16.0,2.7,4.75,4.0,16.0,,,AMD Radeon 680M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-7-160.html
+ryzen 7 170,AMD,AMD Ryzen™ 7 170,Rembrandt,10/01/2025,8.0,,,,16.0,3.2,4.75,4.0,16.0,,,AMD Radeon 680M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-7-170.html
+ryzen 3 110,AMD,AMD Ryzen™ 3 110,Rembrandt,10/1/2025,4.0,,,,8.0,3.0,4.3,2.0,8.0,,,AMD Radeon 660M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-3-110.html
+ryzen 5 130,AMD,AMD Ryzen™ 5 130,Rembrandt,10/01/2025,6.0,,,,12.0,2.9,4.55,3.0,16.0,,,AMD Radeon 660M,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/100-series/amd-ryzen-5-130.html
+ryzen 5 225,AMD,AMD Ryzen™ 5 225,Hawk Point,6/2/2026,6.0,,,,12.0,4.1,4.8,6.0,16.0,,,AMD Radeon 760M Graphics,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-5-225.html
+ryzen 7 253,AMD,AMD Ryzen™ 7 253,Hawk Point,6/2/2026,8.0,,,,16.0,3.6,4.9,8.0,16.0,,,AMD Radeon 780M Graphics,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-7-253.html
+ryzen 3 205,AMD,AMD Ryzen™ 3 205,Hawk Point,6/2/2026,4.0,,,,8.0,2.8,4.6,4.0,8.0,,,AMD Radeon 740M Graphics,28.0,40.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-3-205.html
+ryzen 5 439,AMD,AMD Ryzen™ 5 439,Gorgon Point,,6.0,,,,12.0,2.0,4.6,6.0,8.0,,,AMD Radeon 840M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/400-series/amd-ryzen-5-439.html
+ryzen 7 449,AMD,AMD Ryzen™ 7 449,Gorgon Point,,8.0,,,,16.0,2.0,5.0,8.0,16.0,,,AMD Radeon 860M,28.0,54.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/400-series/amd-ryzen-7-449.html
+ryzen 9 9850hx,AMD,AMD Ryzen™ 9 9850HX,Fire Range,,12.0,,,,24.0,3.0,5.2,12.0,64.0,,,AMD Radeon 610M,55.0,75.0,55.0,,https://www.amd.com/en/products/processors/laptop/ryzen/9000-series/amd-ryzen-9-9850hx.html
+ryzen 7 8745hs,AMD,AMD Ryzen™ 7 8745HS,Hawk Point,06/18/2024,8.0,,,,16.0,3.8,4.9,8.0,16.0,,,AMD Radeon 780M,45.0,54.0,35.0,,https://www.amd.com/en/products/processors/laptop/ryzen/8000-series/amd-ryzen-7-8745hs.html
+ryzen 7 249,AMD,AMD Ryzen™ 7 249,Hawk Point,6/2/2026,8.0,,,,16.0,3.1,4.9,8.0,16.0,,,AMD Radeon 780M Graphics,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-7-249.html
+ryzen 5 224,AMD,AMD Ryzen™ 5 224,Hawk Point,6/2/2026,6.0,,,,12.0,3.3,4.8,6.0,16.0,,,AMD Radeon 760M Graphics,28.0,30.0,15.0,,https://www.amd.com/en/products/processors/laptop/ryzen/200-series/amd-ryzen-5-224.html
+ryzen 5 3501u,AMD,AMD Ryzen™ 5 3501U,Picasso,Q2 2026,4.0,,,,8.0,2.1,3.7,2.0,4.0,,,Radeon Vega 8 Graphics,15.0,35.0,12.0,,https://www.amd.com/en/products/processors/laptop/ryzen/3000-series/amd-ryzen-5-3501u.html
+ryzen ai max+ 395,AMD,AMD Ryzen™ AI Max+ 395,Strix Halo,,16.0,,,,32.0,3.0,5.1,16.0,64.0,50.0,126.0,Radeon 8060S Graphics,55.0,120.0,45.0,,https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html
+288v,Intel,288V,,2024,8.0,4.0,,4.0,8.0,,5.1,,12.0,,,Intel Arc Graphics 140V,30.0,,17.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+268v,Intel,268V,,2024,8.0,4.0,,4.0,8.0,,5.0,,12.0,48.0,118.0,Intel Arc Graphics 140V,17.0,,8.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+266v,Intel,266V,,2024,8.0,4.0,,4.0,8.0,,5.0,,12.0,,,Intel Arc Graphics 140V,17.0,,8.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+258v,Intel,258V,,2024,8.0,4.0,,4.0,8.0,,4.8,,12.0,47.0,115.0,Intel Arc Graphics 140V,17.0,,8.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+256v,Intel,256V,,2024,8.0,4.0,,4.0,8.0,,4.8,,12.0,47.0,115.0,Intel Arc Graphics 140V,17.0,,8.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+238v,Intel,238V,,2024,8.0,4.0,,4.0,8.0,,4.7,,8.0,,,Intel Arc Graphics 130V,17.0,,8.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+236v,Intel,236V,,2024,8.0,4.0,,4.0,8.0,,4.7,,8.0,,,Intel Arc Graphics 130V,17.0,,8.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+228v,Intel,228V,,2024,8.0,4.0,,4.0,8.0,,4.5,,8.0,40.0,97.0,Intel Arc Graphics 130V,17.0,,8.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+226v,Intel,226V,Lunar Lake,2024,8.0,4.0,0.0,4.0,8.0,2.1,4.5,,8.0,40.0,97.0,Intel Arc Graphics 130V,17.0,37.0,8.0,,https://www.intel.com/content/www/us/en/products/sku/240960/intel-core-ultra-5-processor-226v-8m-cache-up-to-4-50-ghz/specifications.html
+185h,Intel,185H,,2023,16.0,6.0,8.0,2.0,22.0,,5.1,,24.0,11.0,35.0,Intel Arc graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+165h,Intel,165H,,2023,16.0,6.0,8.0,2.0,22.0,,5.0,,24.0,,,Intel Arc graphics,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+155h,Intel,155H,,2023,16.0,6.0,8.0,2.0,22.0,,4.8,,24.0,11.0,33.0,Intel Arc graphics,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+135h,Intel,135H,,2023,14.0,4.0,8.0,2.0,18.0,,4.6,,18.0,11.0,33.0,Intel Arc graphics,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+125h,Intel,125H,,2023,14.0,4.0,8.0,2.0,18.0,,4.5,,18.0,11.0,33.0,Intel Arc graphics,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+165u,Intel,165U,,2023,12.0,2.0,8.0,2.0,14.0,,4.9,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+164u,Intel,164U,,2023,12.0,2.0,8.0,2.0,14.0,,4.8,,12.0,,,Intel Graphics,9.0,,,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+155u,Intel,155U,,2023,12.0,2.0,8.0,2.0,14.0,,4.8,,12.0,11.0,22.0,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+135u,Intel,135U,,2023,12.0,2.0,8.0,2.0,14.0,,4.4,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+134u,Intel,134U,,2023,12.0,2.0,8.0,2.0,14.0,,4.4,,12.0,,,Intel Graphics,9.0,,,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+125u,Intel,125U,,2023,12.0,2.0,8.0,2.0,14.0,,4.3,,12.0,11.0,21.0,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+u300,Intel,U300,,2023,5.0,1.0,4.0,,6.0,,4.4,,8.0,,,Intel UHD Graphics for 13th Gen Intel Processors,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+n100,Intel,N100,,2023,4.0,,,,4.0,,3.4,,6.0,,,Intel UHD Graphics,6.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+n200,Intel,N200,,2023,4.0,,,,4.0,,3.7,,6.0,,,Intel UHD Graphics,6.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-n305,Intel,i3-N305,,2023,8.0,,,,8.0,,3.8,,6.0,,,Intel UHD Graphics,15.0,,9.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-n300,Intel,i3-N300,,2023,8.0,,,,8.0,,3.8,,6.0,,,Intel UHD Graphics,7.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+150u,Intel,150U,,2024,10.0,2.0,8.0,,12.0,,5.4,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+120u,Intel,120U,,2024,10.0,2.0,8.0,,12.0,,5.0,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+100u,Intel,100U,,2024,6.0,2.0,4.0,,8.0,,4.7,,10.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-14900hx,Intel,i9-14900HX,,2024,24.0,8.0,16.0,,32.0,,5.8,,36.0,,,Intel UHD for 14th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-14700hx,Intel,i7-14700HX,,2024,20.0,8.0,12.0,,28.0,,5.5,,33.0,,,Intel UHD for 14th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-14650hx,Intel,i7-14650HX,,2024,16.0,8.0,8.0,,24.0,,5.2,,30.0,,,Intel UHD for 14th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-14500hx,Intel,i5-14500HX,,2024,14.0,6.0,8.0,,20.0,,4.9,,24.0,,,Intel UHD for 14th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-14450hx,Intel,i5-14450HX,,2024,10.0,6.0,4.0,,16.0,,4.8,,20.0,,,Intel UHD for 14th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-13980hx,Intel,i9-13980HX,,2023,24.0,8.0,16.0,,32.0,,5.6,,36.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-13950hx,Intel,i9-13950HX,,2023,24.0,8.0,16.0,,32.0,,5.5,,36.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-13905h,Intel,i9-13905H,,2023,14.0,6.0,8.0,,20.0,,5.4,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-13900hx,Intel,i9-13900HX,,2023,24.0,8.0,16.0,,32.0,,5.4,,36.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-13900hk,Intel,i9-13900HK,,2023,14.0,6.0,8.0,,20.0,,5.4,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-13900h,Intel,i9-13900H,,2023,14.0,6.0,8.0,,20.0,,5.4,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-13850hx,Intel,i7-13850HX,,2023,20.0,8.0,12.0,,28.0,,5.3,,30.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-13800h,Intel,i7-13800H,,2023,14.0,6.0,8.0,,20.0,,5.2,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1370p,Intel,i7-1370P,,2023,14.0,6.0,8.0,,20.0,,5.2,,24.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-13705h,Intel,i7-13705H,,2023,14.0,6.0,8.0,,20.0,,5.0,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-13700hx,Intel,i7-13700HX,,2023,16.0,8.0,8.0,,24.0,,5.0,,30.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-13700h,Intel,i7-13700H,,2023,14.0,6.0,8.0,,20.0,,5.0,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1365u,Intel,i7-1365U,,2023,10.0,2.0,8.0,,12.0,,5.2,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-13650hx,Intel,i7-13650HX,,2023,14.0,6.0,8.0,,20.0,,4.9,,24.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-13620h,Intel,i7-13620H,,2023,10.0,6.0,4.0,,16.0,,4.9,,24.0,,,Intel UHD for 13th Gen,45.0,115.0,35.0,,https://www.intel.com/content/www/us/en/products/sku/232130/intel-core-i713620h-processor-24m-cache-up-to-4-90-ghz/specifications.html
+i7-1360p,Intel,i7-1360P,,2023,12.0,4.0,8.0,,16.0,,5.0,,18.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1355u,Intel,i7-1355U,,2023,10.0,2.0,8.0,,12.0,,5.0,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-13600hx,Intel,i5-13600HX,,2023,14.0,6.0,8.0,,20.0,,4.8,,24.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-13600h,Intel,i5-13600H,,2023,12.0,4.0,8.0,,16.0,,4.8,,18.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1350p,Intel,i5-1350P,,2023,12.0,4.0,8.0,,16.0,,4.7,,12.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-13505h,Intel,i5-13505H,,2023,12.0,4.0,8.0,,16.0,,4.7,,18.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-13500hx,Intel,i5-13500HX,,2023,14.0,6.0,8.0,,20.0,,4.7,,24.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-13500h,Intel,i5-13500H7,,2023,12.0,4.0,8.0,,16.0,,4.7,,18.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1345u,Intel,i5-1345U,,2023,10.0,2.0,8.0,,12.0,,4.7,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-13450hx,Intel,i5-13450HX,,2023,10.0,6.0,4.0,,16.0,,4.6,,20.0,,,Intel UHD for 13th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-13420h,Intel,i5-13420H,,2023,8.0,4.0,4.0,,12.0,,4.6,,12.0,,,Intel UHD for 13th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1340p,Intel,i5-1340P,,2023,12.0,4.0,8.0,,16.0,,4.6,,12.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1335u,Intel,i5-1335U,,2023,10.0,2.0,8.0,,12.0,,4.6,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1334u,Intel,i5-1334U,,2023,10.0,2.0,8.0,,12.0,,4.6,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1315u,Intel,i3-1315U6,,2023,6.0,2.0,4.0,,8.0,,4.5,,10.0,,,Intel UHD for 13th Gen,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1305u,Intel,i3-1305U,,2023,5.0,1.0,4.0,,6.0,,4.5,,10.0,,,Intel UHD for 13th Gen,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-12950hx,Intel,i9-12950HX,,2022,16.0,8.0,8.0,,24.0,,5.0,,30.0,,,Intel UHD for 12th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-12900hk,Intel,i9-12900HK,,2022,14.0,6.0,8.0,,20.0,,5.0,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-12900h,Intel,i9-12900H,,2022,14.0,6.0,8.0,,20.0,,5.0,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-12850hx,Intel,i7-12850HX,,2022,16.0,8.0,8.0,,24.0,,4.8,,25.0,,,Intel UHD for 12th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-12800h,Intel,i7-12800H,,2022,14.0,6.0,8.0,,20.0,,4.8,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1270p,Intel,i7-1270P,,2022,12.0,4.0,8.0,,16.0,,4.8,,18.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-12700h,Intel,i7-12700H,,2022,14.0,6.0,8.0,,20.0,,4.7,,24.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1265u,Intel,i7-1265U,,2022,10.0,2.0,8.0,,12.0,,4.8,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-12650hx,Intel,i7-12650HX,,2022,14.0,6.0,8.0,,20.0,,4.7,,24.0,,,Intel UHD for 12th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-12650h,Intel,i7-12650H,,2022,10.0,6.0,4.0,,16.0,,4.7,,24.0,,,Intel UHD Graphics for 12th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1260u,Intel,i7-1260U,,2022,10.0,2.0,8.0,,12.0,,4.7,,12.0,,,Intel Iris Xe Graphics eligible,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1260p,Intel,i7-1260P,,2022,12.0,4.0,8.0,,16.0,,4.7,,18.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1255u,Intel,i7-1255U,,2022,10.0,2.0,8.0,,12.0,,4.7,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1250u,Intel,i7-1250U,,2022,10.0,2.0,8.0,,12.0,,4.7,,12.0,,,Intel Iris Xe Graphics eligible,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-12600h,Intel,i5-12600H,,2022,12.0,4.0,8.0,,16.0,,4.5,,18.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1250p,Intel,i5-1250P,,2022,12.0,4.0,8.0,,16.0,,4.4,,12.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-12500h,Intel,i5-12500H,,2022,12.0,4.0,8.0,,16.0,,4.5,,18.0,,,Intel Iris Xe Graphics eligible,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1245u,Intel,i5-1245U,,2022,10.0,2.0,8.0,,12.0,,4.4,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-12450hx,Intel,i5-12450HX,,2022,8.0,4.0,4.0,,12.0,,4.4,,12.0,,,Intel UHD for 12th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-12450h,Intel,i5-12450H,,2022,8.0,4.0,4.0,,12.0,,4.4,,12.0,,,Intel UHD Graphics for 12th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1240u,Intel,i5-1240U,,2022,10.0,2.0,8.0,,12.0,,4.4,,12.0,,,Intel Iris Xe Graphics eligible,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1235u,Intel,i5-1235U,,2022,10.0,2.0,8.0,,12.0,,4.4,,12.0,,,Intel Iris Xe Graphics eligible,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1230u,Intel,i5-1230U,,2022,10.0,2.0,8.0,,12.0,,4.4,,12.0,,,Intel Iris Xe Graphics eligible,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1220p,Intel,i3-1220P,,2022,10.0,2.0,8.0,,12.0,,4.4,,12.0,,,Intel UHD for 12th Gen,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1215u,Intel,i3-1215U,,2022,6.0,2.0,4.0,,8.0,,4.4,,10.0,,,Intel UHD for 12th Gen,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1210u,Intel,i3-1210U,,2022,6.0,2.0,4.0,,8.0,,4.4,,10.0,,,Intel UHD for 12th Gen,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-12900hx,Intel,i9-12900HX,,2022,16.0,8.0,8.0,,24.0,,5.0,,30.0,,,Intel UHD for 12th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1280p,Intel,i7-1280P,,2022,14.0,6.0,8.0,,20.0,,4.8,,24.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-12800hx,Intel,i7-12800HX,,2022,16.0,8.0,8.0,,24.0,,4.8,,25.0,,,Intel UHD for 12th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-12600hx,Intel,i5-12600HX,,2022,12.0,4.0,8.0,,16.0,,4.6,,18.0,,,Intel UHD for 12th Gen,55.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1240p,Intel,i5-1240P,,2022,12.0,4.0,8.0,,16.0,,4.4,,12.0,,,Intel Iris Xe Graphics eligible,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1195g7,Intel,i7-1195G7,,2021,4.0,,,,8.0,,5.0,,12.0,,,Intel Iris Xe Graphics eligible,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-11980hk,Intel,i9-11980HK,,2021,8.0,,,,16.0,,5.0,,24.0,,,Intel UHD Graphics for 11th Gen,65.0,,45.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-11950h,Intel,i9-11950H,,2021,8.0,,,,16.0,,5.0,,24.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-11900h,Intel,i9-11900H,,2021,8.0,,,,16.0,,4.9,,24.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-11850h,Intel,i7-11850H,,2021,8.0,,,,16.0,,4.8,,24.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1180g7,Intel,i7-1180G7,,2021,4.0,,,,8.0,,4.6,,12.0,,,Intel Iris Xe Graphics,15.0,,7.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-11800h,Intel,i7-11800H,,2021,8.0,,,,16.0,,4.6,,24.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-11600h,Intel,i7-11600H,,2021,6.0,,,,12.0,,4.6,,18.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-11375h,Intel,i7-11375H,,2021,4.0,,,,8.0,,5.0,,12.0,,,Intel Iris Xe Graphics,35.0,,28.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-11370h,Intel,i7-11370H,,2021,4.0,,,,8.0,,4.8,,12.0,,,Intel Iris Xe Graphics,35.0,,28.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1155g7,Intel,i5-1155G7,,2021,4.0,,,,8.0,,4.5,,8.0,,,Intel Iris Xe Graphics,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-11500h,Intel,i5-11500H,,2021,6.0,,,,12.0,,4.6,,12.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1145g7,Intel,i5-1145G7,,2021,4.0,,,,8.0,,4.4,,8.0,,,Intel Iris Xe Graphics,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1140g7,Intel,i5-1140G7,,2021,4.0,,,,8.0,,4.2,,8.0,,,Intel Iris Xe Graphics,28.0,,7.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-11400h,Intel,i5-11400H,,2021,6.0,,,,12.0,,4.5,,12.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-11320h,Intel,i5-11320H,,2021,4.0,,,,8.0,,4.5,,8.0,,,Intel Iris Xe Graphics,35.0,,28.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-11300h,Intel,i5-11300H,,2021,4.0,,,,8.0,,4.4,,8.0,,,Intel Iris Xe Graphics,35.0,,28.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-11260h,Intel,i5-11260H,,2021,6.0,,,,12.0,,4.4,,12.0,,,Intel UHD Graphics for 11th Gen,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1125g4,Intel,i3-1125G4,,2021,4.0,,,,8.0,,3.7,,8.0,,,Intel UHD Graphics for 11th Gen,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1120g4,Intel,i3-1120G4,,2021,4.0,,,,8.0,,3.7,,8.0,,,Intel UHD Graphics for 11th Gen,,,7.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-10100y,Intel,i3-10100Y,,2021,8.0,,,,16.0,,3.9,,4.0,,,Intel UHD Graphics 615,5.0,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1185g7,Intel,i7-1185G7,,2020,4.0,,,,8.0,,4.8,,12.0,,,Intel Iris Xe Graphics,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1165g7,Intel,i7-1165G7,,2020,4.0,,,,8.0,,4.7,,12.0,,,Intel Iris Xe Graphics,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1160g7,Intel,i7-1160G7,,2020,4.0,,,,8.0,,4.4,,12.0,,,Intel Iris Xe Graphics,15.0,,7.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1135g7,Intel,i5-1135G7,,2020,4.0,,,,8.0,,4.2,,8.0,,,Intel Iris Xe Graphics,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1130g7,Intel,i5-1130G7,,2020,4.0,,,,8.0,,4.0,,8.0,,,Intel Iris Xe Graphics,15.0,,7.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1115g4,Intel,i3-1115G4,,2020,2.0,,,,4.0,,4.1,,6.0,,,Intel UHD Graphics,28.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1110g4,Intel,i3-1110G4,,2020,2.0,,,,4.0,,3.9,,6.0,,,Intel UHD Graphics,15.0,,7.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-10980hk,Intel,i9-10980HK,,2020,8.0,,,,16.0,,5.3,,16.0,,,Intel UHD Graphics,45.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-10885h,Intel,i9-10885H,,2020,8.0,,,,16.0,,5.3,,16.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10875h,Intel,i7-10875H,,2020,8.0,,,,16.0,,5.1,,16.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10870h,Intel,i7-10870H,,2020,8.0,,,,16.0,,5.0,,16.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10850h,Intel,i7-10850H,,2020,6.0,,,,12.0,,5.1,,12.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10810u,Intel,i7-10810U,,2020,6.0,,,,12.0,,4.9,,12.0,,,Intel UHD Graphics,15.0,,12.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10750h,Intel,i7-10750H,,2020,6.0,,,,12.0,,5.0,,12.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1068ng7,Intel,i7-1068NG7,,2020,4.0,,,,8.0,,4.1,,8.0,,,Intel Iris Plus Graphics,28.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10610u,Intel,i7-10610U,,2020,4.0,,,,8.0,,4.9,,8.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10500h,Intel,i5-10500H,,2020,6.0,,,,12.0,,4.5,,12.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10400h,Intel,i5-10400H,,2020,4.0,,,,8.0,,4.6,,8.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1038ng7,Intel,i5-1038NG7,,2020,4.0,,,,8.0,,3.8,,6.0,,,Intel Iris Plus Graphics,28.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10310u,Intel,i5-10310U,,2020,4.0,,,,8.0,,4.4,,6.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10300h,Intel,i5-10300H,,2020,4.0,,,,8.0,,4.5,,8.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10200h,Intel,i5-10200H,,2020,4.0,,,,8.0,,4.1,,8.0,,,Intel UHD Graphics,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-9980hk,Intel,i9-9980HK,,2019,8.0,,,,16.0,,5.0,,16.0,,,Intel UHD Graphics 630,45.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-9880h,Intel,i9-9880H,,2019,8.0,,,,16.0,,4.8,,16.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-9850h,Intel,i7-9850H,,2019,6.0,,,,12.0,,4.6,,12.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-9750hf,Intel,i7-9750HF,,2019,6.0,,,,12.0,,4.5,,12.0,,,N/A,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-9750h,Intel,i7-9750H,,2019,6.0,,,,12.0,,4.5,,12.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-9400h,Intel,i5-9400H,,2019,4.0,,,,8.0,,4.3,,8.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-9300hf,Intel,i5-9300HF,,2019,4.0,,,,8.0,,4.1,,8.0,,,N/A,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-9300h,Intel,i5-9300H,,2019,4.0,,,,8.0,,4.1,,8.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8665u,Intel,i7-8665U,,2019,4.0,,,,8.0,,4.8,,8.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8569u,Intel,i7-8569U,,2019,4.0,,,,8.0,,4.7,,8.0,,,Intel Iris Plus Graphics 655,28.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8557u,Intel,i7-8557U,,2019,4.0,,,,8.0,,4.5,,8.0,,,Intel Iris Plus Graphics 645,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8500y,Intel,i7-8500Y,,2019,2.0,,,,4.0,,4.2,,4.0,,,Intel UHD Graphics 615,5.0,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8365u,Intel,i5-8365U,,2019,4.0,,,,8.0,,4.1,,6.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8310y,Intel,i5-8310Y,,2019,2.0,,,,4.0,,3.9,,4.0,,,Intel UHD Graphics 617,7.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8279u,Intel,i5-8279U,,2019,4.0,,,,8.0,,4.1,,6.0,,,Intel Iris Plus Graphics 655,28.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8260u,Intel,i5-8260U,,2019,4.0,,,,8.0,,3.9,,6.0,,,Intel UHD Graphics 620,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8257u,Intel,i5-8257U,,2019,4.0,,,,8.0,,3.9,,6.0,,,Intel Iris Plus Graphics 645,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8210y,Intel,i5-8210Y,,2019,2.0,,,,4.0,,3.6,,4.0,,,Intel UHD Graphics 617,7.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-8140u,Intel,i3-8140U,,2019,2.0,,,,4.0,,3.9,,4.0,,,Intel UHD Graphics 620,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10710u,Intel,i7-10710U,,2019,6.0,,,,12.0,,4.7,,12.0,,,Intel UHD Graphics,15.0,,12.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1065g7,Intel,i7-1065G7,,2019,4.0,,,,8.0,,3.9,,8.0,,,Intel Iris Plus Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-1060g7,Intel,i7-1060G7,,2019,4.0,,,,8.0,,3.8,,8.0,,,Intel Iris Plus Graphics,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10510y,Intel,i7-10510Y,,2019,4.0,,,,8.0,,4.5,,8.0,,,Intel UHD Graphics,7.0,,4.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-10510u,Intel,i7-10510U,,2019,4.0,,,,8.0,,4.9,,8.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1035g7,Intel,i5-1035G7,,2019,4.0,,,,8.0,,3.7,,6.0,,,Intel Iris Plus Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1035g4,Intel,i5-1035G4,,2019,4.0,,,,8.0,,3.7,,6.0,,,Intel Iris Plus Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1035g1,Intel,i5-1035G1,,2019,4.0,,,,8.0,,3.6,,6.0,,,Intel UHD Graphics,15.0,,13.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10310y,Intel,i5-10310Y,,2019,4.0,,,,8.0,,4.1,,6.0,,,Intel UHD Graphics,7.0,,5.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1030g7,Intel,i5-1030G7,,2019,4.0,,,,8.0,,3.5,,6.0,,,Intel Iris Plus Graphics,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-1030g4,Intel,i5-1030G4,,2019,4.0,,,,8.0,,3.5,,6.0,,,Intel Iris Plus Graphics,9.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10210y,Intel,i5-10210Y,,2019,4.0,,,,8.0,,4.0,,6.0,,,Intel UHD Graphics,7.0,,5.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-10210u,Intel,i5-10210U,,2019,4.0,,,,8.0,,4.2,,6.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-10110y,Intel,i3-10110Y,,2019,2.0,,,,4.0,,4.0,,4.0,,,Intel UHD Graphics,7.0,,5.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-10110u,Intel,i3-10110U,,2019,2.0,,,,4.0,,4.1,,4.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1005g1,Intel,i3-1005G1,,2019,2.0,,,,4.0,,3.4,,4.0,,,Intel UHD Graphics,15.0,,13.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1000g4,Intel,i3-1000G4,,2019,2.0,,,,4.0,,3.2,,4.0,,,Intel Iris Plus Graphics,9.0,,8.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-1000g1,Intel,i3-1000G1,,2019,2.0,,,,4.0,,3.2,,4.0,,,Intel UHD Graphics,9.0,,8.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m3-8100y,Intel,m3-8100Y,,2018,2.0,,,,4.0,,3.4,,4.0,,,Intel UHD Graphics 615,5.0,,4.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i9-8950hk,Intel,i9-8950HK,,2018,6.0,,,,12.0,,4.8,,12.0,,,Intel UHD Graphics 630,45.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8850h,Intel,i7-8850H,,2018,6.0,,,,12.0,,4.3,,9.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8750h,Intel,i7-8750H,,2018,6.0,,,,12.0,,4.1,,9.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8700b,Intel,i7-8700B,,2018,6.0,,,,12.0,,4.6,,12.0,,,Intel UHD Graphics 630,65.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8565u,Intel,i7-8565U,,2018,4.0,,,,8.0,,4.6,,8.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8559u,Intel,i7-8559U,,2018,4.0,,,,8.0,,4.5,,8.0,,,Intel Iris Plus Graphics 655,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8500b,Intel,i5-8500B,,2018,6.0,,,,6.0,,4.1,,9.0,,,Intel UHD Graphics 630,65.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8400h,Intel,i5-8400H,,2018,4.0,,,,8.0,,4.2,,8.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8400b,Intel,i5-8400B,,2018,6.0,,,,6.0,,4.0,,9.0,,,Intel UHD Graphics 630,65.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8300h,Intel,i5-8300H,,2018,4.0,,,,8.0,,4.0,,8.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8269u,Intel,i5-8269U,,2018,4.0,,,,8.0,,4.2,,6.0,,,Intel Iris Plus Graphics 655,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8265u,Intel,i5-8265U,,2018,4.0,,,,8.0,,3.9,,6.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8259u,Intel,i5-8259U,,2018,4.0,,,,8.0,,3.8,,6.0,,,Intel Iris Plus Graphics 655,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8200y,Intel,i5-8200Y,,2018,2.0,,,,4.0,,3.9,,4.0,,,Intel UHD Graphics 615,5.0,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-8145u,Intel,i3-8145U,,2018,2.0,,,,4.0,,3.9,,4.0,,,Intel UHD Graphics,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-8130u,Intel,i3-8130U,,2018,2.0,,,,4.0,,3.4,,4.0,,,Intel UHD Graphics 620,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-8109u,Intel,i3-8109U,,2018,2.0,,,,4.0,,3.6,,4.0,,,Intel Iris Plus Graphics 655,28.0,,20.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-8100h,Intel,i3-8100H,,2018,4.0,,,,4.0,,,,6.0,,,Intel UHD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-8100b,Intel,i3-8100B,,2018,4.0,,,,4.0,,,,6.0,,,Intel UHD Graphics 630,65.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-7020u,Intel,i3-7020U,,2018,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 620,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8650u,Intel,i7-8650U,,2017,4.0,,,,8.0,,4.2,,8.0,,,Intel UHD Graphics 620,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-8550u,Intel,i7-8550U,,2017,4.0,,,,8.0,,4.0,,8.0,,,Intel UHD Graphics 620,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8350u,Intel,i5-8350U,,2017,4.0,,,,8.0,,3.6,,6.0,,,Intel UHD Graphics 620,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-8250u,Intel,i5-8250U,,2017,4.0,,,,8.0,,3.4,,6.0,,,Intel UHD Graphics 620,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m3-7y32,Intel,M3-7Y32,,2017,2.0,,,,4.0,,3.0,,4.0,,,Intel HD Graphics 615,4.5,,3.75,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7920hq,Intel,i7-7920HQ,,2017,4.0,,,,8.0,,4.1,,8.0,,,Intel HD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7820hq,Intel,i7-7820HQ,,2017,4.0,,,,8.0,,3.9,,8.0,,,Intel HD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7820hk,Intel,i7-7820HK,,2017,4.0,,,,8.0,,3.9,,8.0,,,Intel HD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7700hq,Intel,i7-7700HQ,,2017,4.0,,,,8.0,,3.8,,6.0,,,Intel HD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7660u,Intel,i7-7660U,,2017,2.0,,,,4.0,,4.0,,4.0,,,Intel Iris Plus Graphics 640,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7600u,Intel,i7-7600U,,2017,2.0,,,,4.0,,3.9,,4.0,,,Intel HD Graphics 620,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7567u,Intel,i7-7567U,,2017,2.0,,,,4.0,,4.0,,4.0,,,Intel Iris Plus Graphics 650,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7560u,Intel,i7-7560U,,2017,2.0,,,,4.0,,3.8,,4.0,,,Intel Iris Plus Graphics 640,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7y57,Intel,i5-7Y57,,2017,2.0,,,,4.0,,3.3,,4.0,,,Intel HD Graphics 615,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7440hq,Intel,i5-7440HQ,,2017,4.0,,,,4.0,,3.8,,6.0,,,Intel HD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7360u,Intel,i5-7360U,,2017,2.0,,,,4.0,,3.6,,4.0,,,Intel Iris Plus Graphics 640,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7300u,Intel,i5-7300U,,2017,2.0,,,,4.0,,3.5,,3.0,,,Intel HD Graphics 620,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7300hq,Intel,i5-7300HQ,,2017,4.0,,,,4.0,,3.5,,6.0,,,Intel HD Graphics 630,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7287u,Intel,i5-7287U,,2017,2.0,,,,4.0,,3.7,,4.0,,,Intel Iris Plus Graphics 650,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7267u,Intel,i5-7267U,,2017,2.0,,,,4.0,,3.5,,4.0,,,Intel Iris Plus Graphics 650,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7260u,Intel,i5-7260U,,2017,2.0,,,,4.0,,3.4,,4.0,,,Intel Iris Plus Graphics 640,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-7167u,Intel,i3-7167U,,2017,2.0,,,,4.0,,,,3.0,,,Intel Iris Plus Graphics 650,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-7130u,Intel,i3-7130U,,2017,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 620,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-7100h,Intel,i3-7100H,,2017,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 630,35.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m3-7y30,Intel,M3-7Y30,,2016,2.0,,,,4.0,,2.6,,4.0,,,Intel HD Graphics 615,4.5,,3.75,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7y75,Intel,i7-7Y75,,2016,2.0,,,,4.0,,3.6,,4.0,,,Intel HD Graphics 615,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-7500u,Intel,i7-7500U,,2016,2.0,,,,4.0,,3.5,,4.0,,,Intel HD Graphics 620,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7y54,Intel,i5-7Y54,,2016,2.0,,,,4.0,,3.2,,4.0,,,Intel HD Graphics 615,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-7200u,Intel,i5-7200U,,2016,2.0,,,,4.0,,3.1,,3.0,,,Intel HD Graphics 620,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-7100u,Intel,i3-7100U,,2016,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 620,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6970hq,Intel,i7-6970HQ,,2016,4.0,,,,8.0,,3.7,,8.0,,,Intel Iris Pro Graphics 580,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6870hq,Intel,i7-6870HQ,,2016,4.0,,,,8.0,,3.6,,8.0,,,Intel Iris Pro Graphics 580,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6770hq,Intel,i7-6770HQ,,2016,4.0,,,,8.0,,3.5,,6.0,,,Intel Iris Pro Graphics 580,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6660u,Intel,i7-6660U,,2016,2.0,,,,4.0,,3.4,,4.0,,,Intel Iris Graphics 540,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6350hq,Intel,i5-6350HQ,,2016,4.0,,,,4.0,,3.2,,6.0,,,Intel Iris Pro Graphics 580,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-6157u,Intel,i3-6157U,,2016,2.0,,,,4.0,,,,3.0,,,Intel Iris Graphics 550,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-6006u,Intel,i3-6006U,,2016,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 520,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m7-6y75,Intel,M7-6Y75,,2015,2.0,,,,4.0,,3.1,,4.0,,,Intel HD Graphics 515,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m5-6y57,Intel,M5-6Y57,,2015,2.0,,,,4.0,,2.8,,4.0,,,Intel HD Graphics 515,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m5-6y54,Intel,M5-6Y54,,2015,2.0,,,,4.0,,2.7,,4.0,,,Intel HD Graphics 515,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m3-6y30,Intel,M3-6Y30,,2015,2.0,,,,4.0,,2.2,,4.0,,,Intel HD Graphics 515,4.5,,3.8,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6920hq,Intel,i7-6920HQ,,2015,4.0,,,,8.0,,3.8,,8.0,,,Intel HD Graphics 530,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6820hq,Intel,i7-6820HQ,,2015,4.0,,,,8.0,,3.6,,8.0,,,Intel HD Graphics 530,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6820hk,Intel,i7-6820HK,,2015,4.0,,,,8.0,,3.6,,8.0,,,Intel HD Graphics 530,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6700hq,Intel,i7-6700HQ,,2015,4.0,,,,8.0,,3.5,,6.0,,,Intel HD Graphics 530,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6650u,Intel,i7-6650U,,2015,2.0,,,,4.0,,3.4,,4.0,,,Intel Iris Graphics 540,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6600u,Intel,i7-6600U,,2015,2.0,,,,4.0,,3.4,,4.0,,,Intel HD Graphics 520,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6567u,Intel,i7-6567U,,2015,2.0,,,,4.0,,3.6,,4.0,,,Intel Iris Graphics 550,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6560u,Intel,i7-6560U,,2015,2.0,,,,4.0,,3.2,,4.0,,,Intel Iris Graphics 540,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-6500u,Intel,i7-6500U,,2015,2.0,,,,4.0,,3.1,,4.0,,,Intel HD Graphics 520,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6440hq,Intel,i5-6440HQ,,2015,4.0,,,,4.0,,3.5,,6.0,,,Intel HD Graphics 530,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6360u,Intel,i5-6360U,,2015,2.0,,,,4.0,,3.1,,4.0,,,Intel Iris Graphics 540,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6300u,Intel,i5-6300U,,2015,2.0,,,,4.0,,3.0,,3.0,,,Intel HD Graphics 520,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6300hq,Intel,i5-6300HQ,,2015,4.0,,,,4.0,,3.2,,6.0,,,Intel HD Graphics 530,45.0,,35.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6287u,Intel,i5-6287U,,2015,2.0,,,,4.0,,3.5,,4.0,,,Intel Iris Graphics 550,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6267u,Intel,i5-6267U,,2015,2.0,,,,4.0,,3.3,,4.0,,,Intel Iris Graphics 550,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6260u,Intel,i5-6260U,,2015,2.0,,,,4.0,,2.9,,4.0,,,Intel Iris Graphics 540,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-6200u,Intel,i5-6200U,,2015,2.0,,,,4.0,,2.8,,3.0,,,Intel HD Graphics 520,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-6167u,Intel,i3-6167U,,2015,2.0,,,,4.0,,,,3.0,,,Intel Iris Graphics 550,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-6100u,Intel,i3-6100U,,2015,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 520,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-6100h,Intel,i3-6100H,,2015,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 530,35.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5950hq,Intel,i7-5950HQ,,2015,4.0,,,,8.0,,3.8,,6.0,,,Intel Iris Pro Graphics 6200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5850hq,Intel,i7-5850HQ,,2015,4.0,,,,8.0,,3.6,,6.0,,,Intel Iris Pro Graphics 6200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5750hq,Intel,i7-5750HQ,,2015,4.0,,,,8.0,,3.4,,6.0,,,Intel Iris Pro Graphics 6200,47.0,,37.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5700hq,Intel,i7-5700HQ,,2015,4.0,,,,8.0,,3.5,,6.0,,,Intel Iris Pro Graphics 6200,47.0,,37.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5650u,Intel,i7-5650U,,2015,2.0,,,,4.0,,3.1,,4.0,,,Intel HD Graphics 6000,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5600u,Intel,i7-5600U,,2015,2.0,,,,4.0,,3.2,,4.0,,,Intel HD Graphics 5500,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5557u,Intel,i7-5557U,,2015,2.0,,,,4.0,,3.4,,4.0,,,Intel Iris Graphics 6100,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5550u,Intel,i7-5550U,,2015,2.0,,,,4.0,,3.0,,4.0,,,Intel HD Graphics 6000,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-5500u,Intel,i7-5500U,,2015,2.0,,,,4.0,,3.0,,4.0,,,Intel HD Graphics 5500,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-5350u,Intel,i5-5350U,,2015,2.0,,,,4.0,,2.9,,3.0,,,Intel HD Graphics 6000,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-5350h,Intel,i5-5350H,,2015,2.0,,,,4.0,,3.5,,4.0,,,Intel Iris Pro Graphics 6200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-5300u,Intel,i5-5300U,,2015,2.0,,,,4.0,,2.9,,3.0,,,Intel HD Graphics 5500,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-5287u,Intel,i5-5287U,,2015,2.0,,,,4.0,,3.3,,3.0,,,Intel Iris Graphics 6100,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-5257u,Intel,i5-5257U,,2015,2.0,,,,4.0,,3.1,,3.0,,,Intel Iris Graphics 6100,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-5250u,Intel,i5-5250U,,2015,2.0,,,,4.0,,2.7,,3.0,,,Intel HD Graphics 6000,15.0,,9.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-5200u,Intel,i5-5200U,,2015,2.0,,,,4.0,,2.7,,3.0,,,Intel HD Graphics 5500,15.0,,7.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-5157u,Intel,i3-5157U,,2015,2.0,,,,4.0,,,,3.0,,,Intel Iris Graphics 6100,28.0,,23.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-5020u,Intel,i3-5020U,,2015,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 5500,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-5015u,Intel,i3-5015U,,2015,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 5500,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-5010u,Intel,i3-5010U,,2015,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 5500,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-5005u,Intel,i3-5005U,,2015,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 5500,15.0,,10.0,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4722hq,Intel,i7-4722HQ,,2015,4.0,,,,8.0,,3.4,,6.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4720hq,Intel,i7-4720HQ,,2015,4.0,,,,8.0,,3.6,,6.0,,,Intel HD Graphics 4600,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m-5y71,Intel,M-5Y71,,2014,2.0,,,,4.0,,2.9,,4.0,,,Intel HD Graphics 5300,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m-5y70,Intel,M-5Y70,,2014,2.0,,,,4.0,,2.6,,4.0,,,Intel HD Graphics 5300,4.5,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m-5y51,Intel,M-5Y51,,2014,2.0,,,,4.0,,2.6,,4.0,,,Intel HD Graphics 5300,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m-5y31,Intel,M-5Y31,,2014,2.0,,,,4.0,,2.4,,4.0,,,Intel HD Graphics 5300,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m-5y10c,Intel,M-5Y10c,,2014,2.0,,,,4.0,,2.0,,4.0,,,Intel HD Graphics 5300,4.5,,3.5,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m-5y10a,Intel,M-5Y10a,,2014,2.0,,,,4.0,,2.0,,4.0,,,Intel HD Graphics 5300,4.5,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+m-5y10,Intel,M-5Y10,,2014,2.0,,,,4.0,,2.0,,4.0,,,Intel HD Graphics 5300,4.5,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4980hq,Intel,i7-4980HQ,,2014,4.0,,,,8.0,,4.0,,6.0,,,Intel Iris Pro Graphics 5200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4940mx,Intel,i7-4940MX,,2014,4.0,,,,8.0,,4.0,,8.0,,,Intel HD Graphics 4600,57.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4910mq,Intel,i7-4910MQ,,2014,4.0,,,,8.0,,3.9,,8.0,,,Intel HD Graphics 4600,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4870hq,Intel,i7-4870HQ,,2014,4.0,,,,8.0,,3.7,,6.0,,,Intel Iris Pro Graphics 5200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4860hq,Intel,i7-4860HQ,,2014,4.0,,,,8.0,,3.6,,6.0,,,Intel Iris Pro Graphics 5200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4810mq,Intel,i7-4810MQ,,2014,4.0,,,,8.0,,3.8,,6.0,,,Intel HD Graphics 4600,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4770hq,Intel,i7-4770HQ,,2014,4.0,,,,8.0,,3.4,,6.0,,,Intel Iris Pro Graphics 5200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4760hq,Intel,i7-4760HQ,,2014,4.0,,,,8.0,,3.3,,6.0,,,Intel Iris Pro Graphics 5200,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4712mq,Intel,i7-4712MQ,,2014,4.0,,,,8.0,,3.3,,6.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4712hq,Intel,i7-4712HQ,,2014,4.0,,,,8.0,,3.3,,6.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4710mq,Intel,i7-4710MQ,,2014,4.0,,,,8.0,,3.5,,6.0,,,Intel HD Graphics 4600,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4710hq,Intel,i7-4710HQ,,2014,4.0,,,,8.0,,3.5,,6.0,,,Intel HD Graphics 4600,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4610m,Intel,i7-4610M,,2014,2.0,,,,4.0,,3.7,,4.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4578u,Intel,i7-4578U,,2014,2.0,,,,4.0,,3.5,,4.0,,,Intel Iris Graphics 5100,28.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i7-4510u,Intel,i7-4510U,,2014,2.0,,,,4.0,,3.1,,4.0,,,Intel HD Graphics 4400,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4360u,Intel,i5-4360U,,2014,2.0,,,,4.0,,3.0,,3.0,,,Intel HD Graphics 5000,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4340m,Intel,i5-4340M,,2014,2.0,,,,4.0,,3.6,,3.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4310u,Intel,i5-4310U,,2014,2.0,,,,4.0,,3.0,,3.0,,,Intel HD Graphics 4400,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4310m,Intel,i5-4310M,,2014,2.0,,,,4.0,,3.4,,3.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4308u,Intel,i5-4308U,,2014,2.0,,,,4.0,,3.3,,3.0,,,Intel Iris Graphics 5100,28.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4278u,Intel,i5-4278U,,2014,2.0,,,,4.0,,3.1,,3.0,,,Intel Iris Graphics 5100,28.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4260u,Intel,i5-4260U,,2014,2.0,,,,4.0,,2.7,,3.0,,,Intel HD Graphics 5000,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4220y,Intel,i5-4220Y,,2014,2.0,,,,4.0,,2.0,,3.0,,,Intel HD Graphics 4200,11.5,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4210u,Intel,i5-4210U,,2014,2.0,,,,4.0,,2.7,,3.0,,,Intel HD Graphics 4400,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4210m,Intel,i5-4210M,,2014,2.0,,,,4.0,,3.2,,3.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i5-4210h,Intel,i5-4210H,,2014,2.0,,,,4.0,,3.5,,3.0,,,Intel HD Graphics 4600,47.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-4120u,Intel,i3-4120U,,2014,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 4400,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-4110m,Intel,i3-4110M,,2014,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 4600,37.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-4030y,Intel,i3-4030Y,,2014,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 4200,11.5,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-4030u,Intel,i3-4030U,,2014,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 4400,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+i3-4025u,Intel,i3-4025U,,2014,2.0,,,,4.0,,,,3.0,,,Intel HD Graphics 4400,15.0,,,,https://cdrdv2-public.intel.com/841783/Intel-Core-Comparsion.pdf
+388h,Intel,388H,,2026,16.0,4.0,8.0,4.0,16.0,,5.1,,18.0,50.0,,Intel Arc B390 GPU,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+386h,Intel,386H,,2026,16.0,4.0,8.0,4.0,16.0,,4.9,,18.0,50.0,,Intel Graphics,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+368h,Intel,368H,,2026,16.0,4.0,8.0,4.0,16.0,,5.0,,18.0,,,Intel Arc B390 GPU,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+366h,Intel,366H,,2026,16.0,4.0,8.0,4.0,16.0,,4.8,,18.0,,,Intel Graphics,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+365,Intel,365,,2026,8.0,4.0,0.0,4.0,8.0,,4.8,,12.0,,,Intel Graphics,25.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+358h,Intel,358H,,2026,16.0,4.0,8.0,4.0,16.0,,4.8,,18.0,50.0,,Intel Arc B390 GPU,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+356h,Intel,356H,,2026,16.0,4.0,8.0,4.0,16.0,,4.7,,18.0,50.0,,Intel Graphics,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+355,Intel,355,,2026,8.0,4.0,0.0,4.0,8.0,,4.7,,12.0,49.0,,Intel Graphics,25.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+338h,Intel,338H,,2026,12.0,4.0,8.0,4.0,12.0,,4.7,,18.0,,,Intel Arc B370 GPU,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+336h,Intel,336H,,2026,12.0,4.0,8.0,4.0,12.0,,4.6,,18.0,,,Intel Graphics,25.0,,15.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+335,Intel,335,,2026,8.0,4.0,0.0,4.0,8.0,,4.6,,12.0,,,Intel Graphics,25.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+325,Intel,325,,2026,8.0,4.0,0.0,4.0,8.0,,4.5,,12.0,47.0,,Intel Graphics,25.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+332,Intel,332,,2026,6.0,4.0,0.0,4.0,6.0,,4.4,,12.0,,,Intel Graphics,25.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+322,Intel,322,,2026,6.0,4.0,0.0,4.0,6.0,,4.4,,12.0,,,Intel Graphics,25.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+285hx,Intel,285HX,,2025,24.0,8.0,16.0,,24.0,,5.5,,36.0,,,Intel Graphics,55.0,,45.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+275hx,Intel,275HX,,2025,24.0,8.0,16.0,,24.0,2.7,5.4,40.0,36.0,13.0,36.0,Intel Graphics,55.0,160.0,45.0,,https://www.intel.com/content/www/us/en/products/sku/242293/intel-core-ultra-9-processor-275hx-36m-cache-up-to-5-40-ghz/specifications.html
+265hx,Intel,265HX,,2025,20.0,8.0,12.0,,20.0,,5.3,,30.0,,,Intel Graphics,55.0,,45.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+255hx,Intel,255HX,,2025,20.0,8.0,12.0,,20.0,,5.2,,30.0,,,Intel Graphics,55.0,,45.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+245hx,Intel,245HX,,2025,14.0,6.0,8.0,,14.0,,5.1,,24.0,,,Intel Graphics,55.0,,45.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+235hx,Intel,235HX,,2025,14.0,6.0,8.0,,14.0,,5.1,,24.0,,,Intel Graphics,55.0,,45.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+285h,Intel,285H,,2025,16.0,6.0,8.0,2.0,16.0,2.9,5.4,,24.0,13.0,99.0,Intel Arc 140T GPU,45.0,115.0,35.0,,https://www.intel.com/content/www/us/en/products/sku/241747/intel-core-ultra-9-processor-285h-24m-cache-up-to-5-40-ghz/specifications.html
+265h,Intel,265H,,2025,16.0,6.0,8.0,2.0,16.0,,5.3,,24.0,,,Intel Arc 140T GPU,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+255h,Intel,255H,,2025,16.0,6.0,8.0,2.0,16.0,,5.1,,24.0,13.0,96.0,Intel Arc 140T GPU,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+235h,Intel,235H,,2025,14.0,4.0,8.0,2.0,14.0,,5.0,,18.0,,,Intel Arc 140T GPU,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+225h,Intel,225H,,2025,14.0,4.0,8.0,2.0,14.0,,4.9,,18.0,13.0,83.0,Intel Arc 130T GPU,28.0,,20.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+265u,Intel,265U,,2025,12.0,2.0,8.0,2.0,14.0,,5.3,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+255u,Intel,255U,,2025,12.0,2.0,8.0,2.0,14.0,,5.2,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+235u,Intel,235U,,2025,12.0,2.0,8.0,2.0,14.0,,4.9,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+225u,Intel,225U,,2025,12.0,2.0,8.0,2.0,14.0,,4.8,,12.0,,,Intel Graphics,15.0,,12.0,,https://cdrdv2-public.intel.com/851467/Intel-Core-Ultra-Series1-Series2-Series3-Comparison.pdf
+290hx plus,Intel,290HX PLUS,Arrow Lake,Q1'26,24.0,8.0,16.0,0.0,24.0,2.7,5.5,40.0,36.0,13.0,36.0,Intel Graphics,55.0,160.0,,,https://www.intel.com/content/www/us/en/products/sku/245960/intel-core-ultra-9-processor-290hx-plus-36m-cache-up-to-5-50-ghz/specifications.html
+115u,Intel,115U,Meteor Lake,Q4'23,8.0,2.0,4.0,2.0,10.0,1.5,4.2,,10.0,11.0,21.0,Intel Graphics,15.0,57.0,,,https://www.intel.com/content/www/us/en/products/sku/237505/intel-core-ultra-5-processor-115u-10m-cache-up-to-4-20-ghz/specifications.html
+210h,Intel,210H,Raptor Lake,Q4'24,8.0,4.0,4.0,0.0,12.0,2.2,4.8,,12.0,,,Intel Graphics,45.0,115.0,,,https://www.intel.com/content/www/us/en/products/sku/241652/intel-core-5-processor-210h-12m-cache-up-to-4-80-ghz/specifications.html
+240h,Intel,240H,Raptor Lake,Q4'24,10.0,6.0,4.0,0.0,16.0,2.5,5.2,,24.0,,,Intel Graphics,45.0,115.0,,,https://www.intel.com/content/www/us/en/products/sku/241653/intel-core-7-processor-240h-24m-cache-up-to-5-20-ghz/specifications.html
+304,Intel,304,Wildcat Lake,Q2'26,5.0,1.0,0.0,4.0,5.0,1.5,4.3,,6.0,15.0,24.0,Intel Graphics,15.0,35.0,,,https://www.intel.com/content/www/us/en/products/sku/246020/intel-core-3-processor-304-6m-cache-up-to-4-30-ghz/specifications.html
+315,Intel,315,Wildcat Lake,Q2'26,6.0,2.0,0.0,4.0,6.0,1.5,4.4,,6.0,15.0,33.0,Intel Graphics,15.0,35.0,,,https://www.intel.com/content/www/us/en/products/sku/246127/intel-core-5-processor-315-6m-cache-up-to-4-40-ghz/specifications.html
+320,Intel,320,Wildcat Lake,Q2'26,6.0,2.0,0.0,4.0,6.0,1.5,4.6,,6.0,16.0,36.0,Intel Graphics,15.0,35.0,,,https://www.intel.com/content/www/us/en/products/sku/246018/intel-core-5-processor-320-6m-cache-up-to-4-60-ghz/specifications.html
+350,Intel,350,Wildcat Lake,Q2'26,6.0,2.0,0.0,4.0,6.0,1.5,4.8,,6.0,17.0,38.0,Intel Graphics,15.0,35.0,,,https://www.intel.com/content/www/us/en/products/sku/246017/intel-core-7-processor-350-6m-cache-up-to-4-80-ghz/specifications.html
+8505,Intel,8505,Alder Lake,Q1'22,5.0,1.0,4.0,,6.0,,4.4,,8.0,,,Intel UHD Graphics for 12th Gen Intel Processors,15.0,55.0,,,https://www.intel.com/content/www/us/en/products/sku/226262/intel-pentium-gold-processor-8505-8m-cache-up-to-4-40-ghz/specifications.html
+n4020,Intel,N4020,Gemini Lake Refresh,Q4'19,2.0,,,,2.0,1.1,2.8,,,,,Intel UHD Graphics 600,6.0,,,Intel 只標「Cache 4 MB」，未註明層級,https://www.intel.com/content/www/us/en/products/sku/197310/intel-celeron-processor-n4020-4m-cache-up-to-2-80-ghz/specifications.html
+n4120,Intel,N4120,Gemini Lake Refresh,Q4'19,4.0,,,,4.0,1.1,2.6,,,,,Intel UHD Graphics 600,6.0,,,Intel 只標「Cache 4 MB」，未註明層級,https://www.intel.com/content/www/us/en/products/sku/197309/intel-celeron-processor-n4120-4m-cache-up-to-2-60-ghz/specifications.html
+n5030,Intel,N5030,Gemini Lake Refresh,Q4'19,4.0,,,,4.0,1.1,3.1,,,,,Intel UHD Graphics 605,6.0,,,Intel 只標「Cache 4 MB」，未註明層級,https://www.intel.com/content/www/us/en/products/sku/197308/intel-pentium-silver-n5030-processor-4m-cache-up-to-3-10-ghz/specifications.html
+n4500,Intel,N4500,Jasper Lake,Q1'21,2.0,,,,2.0,1.1,2.8,,4.0,,,Intel UHD Graphics,6.0,,,,https://www.intel.com/content/www/us/en/products/sku/212326/intel-celeron-processor-n4500-4m-cache-up-to-2-80-ghz/specifications.html
+n5100,Intel,N5100,Jasper Lake,Q1'21,4.0,,,,4.0,1.1,2.8,,4.0,,,Intel UHD Graphics,6.0,,,,https://www.intel.com/content/www/us/en/products/sku/212329/intel-celeron-processor-n5100-4m-cache-up-to-2-80-ghz/specifications.html
+n6000,Intel,N6000,Jasper Lake,Q1'21,4.0,,,,4.0,1.1,3.3,,4.0,,,Intel UHD Graphics,6.0,,,,https://www.intel.com/content/www/us/en/products/sku/212330/intel-pentium-silver-n6000-processor-4m-cache-up-to-3-30-ghz/specifications.html
+n150,Intel,N150,Twin Lake,Q1'25,4.0,,,,4.0,,3.6,,6.0,,,Intel Graphics,6.0,,,,https://www.intel.com/content/www/us/en/products/sku/241636/intel-processor-n150-6m-cache-up-to-3-60-ghz/specifications.html

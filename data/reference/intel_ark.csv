@@ -1,0 +1,21 @@
+key,cores,p_cores,e_cores,lpe_cores,threads,base_ghz,boost_ghz,l2_mb,l3_mb,base_power_w,max_power_w,min_power_w,igpu,codename,launch,notes,source_url
+290hx plus,24,8,16,0,24,2.7,5.5,40,36,55,160,,Intel Graphics,Arrow Lake,Q1'26,,https://www.intel.com/content/www/us/en/products/sku/245960/intel-core-ultra-9-processor-290hx-plus-36m-cache-up-to-5-50-ghz/specifications.html
+275hx,24,8,16,,24,2.7,,40,36,55,160,,,,,,https://www.intel.com/content/www/us/en/products/sku/242293/intel-core-ultra-9-processor-275hx-36m-cache-up-to-5-40-ghz/specifications.html
+285h,16,6,8,2,16,2.9,,,24,45,115,,,,,,https://www.intel.com/content/www/us/en/products/sku/241747/intel-core-ultra-9-processor-285h-24m-cache-up-to-5-40-ghz/specifications.html
+226v,8,4,0,4,8,2.1,4.5,,8,17,37,8,,Lunar Lake,,,https://www.intel.com/content/www/us/en/products/sku/240960/intel-core-ultra-5-processor-226v-8m-cache-up-to-4-50-ghz/specifications.html
+i7-13620h,10,6,4,,16,,,,24,45,115,,,,,,https://www.intel.com/content/www/us/en/products/sku/232130/intel-core-i713620h-processor-24m-cache-up-to-4-90-ghz/specifications.html
+115u,8,2,4,2,10,1.5,4.2,,10,15,57,,Intel Graphics,Meteor Lake,Q4'23,,https://www.intel.com/content/www/us/en/products/sku/237505/intel-core-ultra-5-processor-115u-10m-cache-up-to-4-20-ghz/specifications.html
+210h,8,4,4,0,12,2.2,4.8,,12,45,115,,Intel Graphics,Raptor Lake,Q4'24,,https://www.intel.com/content/www/us/en/products/sku/241652/intel-core-5-processor-210h-12m-cache-up-to-4-80-ghz/specifications.html
+240h,10,6,4,0,16,2.5,5.2,,24,45,115,,Intel Graphics,Raptor Lake,Q4'24,,https://www.intel.com/content/www/us/en/products/sku/241653/intel-core-7-processor-240h-24m-cache-up-to-5-20-ghz/specifications.html
+304,5,1,0,4,5,1.5,4.3,,6,15,35,,Intel Graphics,Wildcat Lake,Q2'26,,https://www.intel.com/content/www/us/en/products/sku/246020/intel-core-3-processor-304-6m-cache-up-to-4-30-ghz/specifications.html
+315,6,2,0,4,6,1.5,4.4,,6,15,35,,Intel Graphics,Wildcat Lake,Q2'26,,https://www.intel.com/content/www/us/en/products/sku/246127/intel-core-5-processor-315-6m-cache-up-to-4-40-ghz/specifications.html
+320,6,2,0,4,6,1.5,4.6,,6,15,35,,Intel Graphics,Wildcat Lake,Q2'26,,https://www.intel.com/content/www/us/en/products/sku/246018/intel-core-5-processor-320-6m-cache-up-to-4-60-ghz/specifications.html
+350,6,2,0,4,6,1.5,4.8,,6,15,35,,Intel Graphics,Wildcat Lake,Q2'26,,https://www.intel.com/content/www/us/en/products/sku/246017/intel-core-7-processor-350-6m-cache-up-to-4-80-ghz/specifications.html
+8505,5,1,4,,6,,4.4,,8,15,55,,Intel UHD Graphics for 12th Gen Intel Processors,Alder Lake,Q1'22,,https://www.intel.com/content/www/us/en/products/sku/226262/intel-pentium-gold-processor-8505-8m-cache-up-to-4-40-ghz/specifications.html
+n4020,2,,,,2,1.1,2.8,,,6,,,Intel UHD Graphics 600,Gemini Lake Refresh,Q4'19,Intel 只標「Cache 4 MB」，未註明層級,https://www.intel.com/content/www/us/en/products/sku/197310/intel-celeron-processor-n4020-4m-cache-up-to-2-80-ghz/specifications.html
+n4120,4,,,,4,1.1,2.6,,,6,,,Intel UHD Graphics 600,Gemini Lake Refresh,Q4'19,Intel 只標「Cache 4 MB」，未註明層級,https://www.intel.com/content/www/us/en/products/sku/197309/intel-celeron-processor-n4120-4m-cache-up-to-2-60-ghz/specifications.html
+n5030,4,,,,4,1.1,3.1,,,6,,,Intel UHD Graphics 605,Gemini Lake Refresh,Q4'19,Intel 只標「Cache 4 MB」，未註明層級,https://www.intel.com/content/www/us/en/products/sku/197308/intel-pentium-silver-n5030-processor-4m-cache-up-to-3-10-ghz/specifications.html
+n4500,2,,,,2,1.1,2.8,,4,6,,,Intel UHD Graphics,Jasper Lake,Q1'21,,https://www.intel.com/content/www/us/en/products/sku/212326/intel-celeron-processor-n4500-4m-cache-up-to-2-80-ghz/specifications.html
+n5100,4,,,,4,1.1,2.8,,4,6,,,Intel UHD Graphics,Jasper Lake,Q1'21,,https://www.intel.com/content/www/us/en/products/sku/212329/intel-celeron-processor-n5100-4m-cache-up-to-2-80-ghz/specifications.html
+n6000,4,,,,4,1.1,3.3,,4,6,,,Intel UHD Graphics,Jasper Lake,Q1'21,,https://www.intel.com/content/www/us/en/products/sku/212330/intel-pentium-silver-n6000-processor-4m-cache-up-to-3-30-ghz/specifications.html
+n150,4,,,,4,,3.6,,6,6,,,Intel Graphics,Twin Lake,Q1'25,,https://www.intel.com/content/www/us/en/products/sku/241636/intel-processor-n150-6m-cache-up-to-3-60-ghz/specifications.html

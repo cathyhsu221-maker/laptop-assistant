@@ -1,0 +1,2 @@
+key,vendor,official_name,architecture,cores,boost_mhz_min,boost_mhz_max,power_min_w,power_max_w,memory,bus_width,ai_tops,notes,source_url
+rtx a2000,NVIDIA,NVIDIA RTX A2000 Laptop GPU,Ampere,2560,,,35,95,4 GB GDDR6,128-bit,,"NVIDIA 行動工作站產品表只列 4GB 版本；ASUS 機種標示為 8GB",https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/documents/quadro-line-card-for-mobile-workstation.pdf
